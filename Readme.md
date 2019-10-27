@@ -1,3 +1,7 @@
-Nothing to see here...
+---
+layout: default
+title: About
+---
+# About page
 
-I have no idea what I'm doing.
+This page tells you a little bit about me.
