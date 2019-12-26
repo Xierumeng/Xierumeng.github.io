@@ -1,0 +1,11 @@
+---
+layout: comic
+date:   2018-12-04 21:36:00 -0500
+title:  1. ECE 2023's Policy 71
+note:   1A was a rough term.
+categories: page
+permalink: /001
+---
+![PAGE 001]({{ site.url }}/pages/001.png)
+
+![PAGE 001](/pages/001.png){:class="img-responsive"}
