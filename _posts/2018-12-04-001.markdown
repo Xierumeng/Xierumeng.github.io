@@ -6,6 +6,4 @@ note:   1A was a rough term.
 categories: page
 permalink: /001
 ---
-![PAGE 001]({{ site.url }}/pages/001.png)
-
 ![PAGE 001](/pages/001.png){:class="img-responsive"}

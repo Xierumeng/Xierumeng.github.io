@@ -1,0 +1,36 @@
+I"@<h1 id="projects">Projects</h1>
+
+<h2 id="space-combat-simulator">Space Combat Simulator</h2>
+
+<ul>
+  <li>A somewhat realistic combat simulator, similar to KSP and Children of a Dead Earth, based on mid-future speculative technologies.</li>
+  <li>Superconductors and fusion drives are assumed to have matured and are common throughout this universe. 3D printing is ubiquitous.</li>
+</ul>
+
+<h2 id="ftl-event-editor">FTL Event Editor</h2>
+
+<ul>
+  <li>A user-friendly method of modding FTL Faster Than Light, specifically, editing the XML data files for its events.</li>
+  <li>Also contains a simulation feature for debugging purposes.</li>
+</ul>
+
+<h2 id="uwaterloo-schedule-exporter">UWaterloo Schedule Exporter</h2>
+
+<ul>
+  <li>A Google Chrome extension converting the class schedule into an iCalendar format, importable into Microsoft Outlook and/or Google Calendar.</li>
+  <li>This is mainly for personal use, but feel free to contact me and I’ll update Github/make it available for free on the Chrome Web Store.</li>
+</ul>
+
+<h2 id="repository-of-knowledge">Repository of Knowledge</h2>
+
+<ul>
+  <li>An storage of information resources for engineering students.</li>
+</ul>
+
+<h2 id="personal-website">Personal website</h2>
+
+<ul>
+  <li>A place to link it all together (and somewhere to store my comics).</li>
+  <li>You’re here now!</li>
+</ul>
+:ET

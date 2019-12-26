@@ -3,19 +3,19 @@
   <channel>
     <title>Xierumeng's Website</title>
     <description>For all things Xierumeng.</description>
-    <link>https://xierumeng.github.io/</link>
-    <atom:link href="https://xierumeng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Dec 2019 21:38:25 -0500</pubDate>
-    <lastBuildDate>Wed, 25 Dec 2019 21:38:25 -0500</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 25 Dec 2019 21:56:23 -0500</pubDate>
+    <lastBuildDate>Wed, 25 Dec 2019 21:56:23 -0500</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>5. The 5 Stages of 1st Years Getting a Quiz Back</title>
         <description>&lt;p&gt;&lt;img src=&quot;/pages/005.png&quot; alt=&quot;PAGE 005&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Oct 2019 23:47:00 -0400</pubDate>
-        <link>https://xierumeng.github.io/005</link>
-        <guid isPermaLink="true">https://xierumeng.github.io/005</guid>
+        <link>http://localhost:4000/005</link>
+        <guid isPermaLink="true">http://localhost:4000/005</guid>
         
         
         <category>page</category>
@@ -27,8 +27,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/pages/004.png&quot; alt=&quot;PAGE 004&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Aug 2019 21:29:00 -0400</pubDate>
-        <link>https://xierumeng.github.io/004</link>
-        <guid isPermaLink="true">https://xierumeng.github.io/004</guid>
+        <link>http://localhost:4000/004</link>
+        <guid isPermaLink="true">http://localhost:4000/004</guid>
         
         
         <category>page</category>
@@ -40,8 +40,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/pages/003.png&quot; alt=&quot;PAGE 003&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Jun 2019 22:43:00 -0400</pubDate>
-        <link>https://xierumeng.github.io/003</link>
-        <guid isPermaLink="true">https://xierumeng.github.io/003</guid>
+        <link>http://localhost:4000/003</link>
+        <guid isPermaLink="true">http://localhost:4000/003</guid>
         
         
         <category>page</category>
@@ -53,8 +53,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/pages/002.png&quot; alt=&quot;PAGE 002&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Dec 2018 23:22:00 -0500</pubDate>
-        <link>https://xierumeng.github.io/002</link>
-        <guid isPermaLink="true">https://xierumeng.github.io/002</guid>
+        <link>http://localhost:4000/002</link>
+        <guid isPermaLink="true">http://localhost:4000/002</guid>
         
         
         <category>page</category>
@@ -63,13 +63,11 @@
     
       <item>
         <title>1. ECE 2023's Policy 71</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://xierumeng.github.io/pages/001.png&quot; alt=&quot;PAGE 001&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/pages/001.png&quot; alt=&quot;PAGE 001&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/pages/001.png&quot; alt=&quot;PAGE 001&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Dec 2018 21:36:00 -0500</pubDate>
-        <link>https://xierumeng.github.io/001</link>
-        <guid isPermaLink="true">https://xierumeng.github.io/001</guid>
+        <link>http://localhost:4000/001</link>
+        <guid isPermaLink="true">http://localhost:4000/001</guid>
         
         
         <category>page</category>
