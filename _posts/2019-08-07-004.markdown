@@ -1,0 +1,9 @@
+---
+layout: comic
+date:   2019-08-07 20:29:00 -0500
+title:  4. Unforgiving
+note:   No mistakes allowed.
+categories: page
+permalink: /004
+---
+![PAGE 004](/pages/004.png){:class="img-responsive"}

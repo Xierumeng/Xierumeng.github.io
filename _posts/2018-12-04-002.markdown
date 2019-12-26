@@ -1,0 +1,9 @@
+---
+layout: comic
+date:   2018-12-04 23:22:00 -0500
+title:  2. All I want for Christmas...
+note:   ...is to pass ECE 105. The final at least was much easier than expected.
+categories: page
+permalink: /002
+---
+![PAGE 002](/pages/002.png){:class="img-responsive"}

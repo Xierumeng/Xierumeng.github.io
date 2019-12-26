@@ -41,6 +41,8 @@
 
             <div class="comic-panel center">
               <a name="top-page"></a>
+              <h2>{{ page.title }}</h2>
+              <p>{{ page.note }}</p>
               <a href= {{ site.url }}{{ page.next.url }}#top-page>{{ content }}</a>
               <ul class="pager">
                 <li><a class="btn btn-outline-secondary" href= {{ site.url }}{{ page.previous.url }}#top-page >PREVIOUS</a></li>

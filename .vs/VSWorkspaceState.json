@@ -6,10 +6,8 @@
     "\\pages",
     "\\_includes",
     "\\_layouts",
-    "\\_posts",
-    "\\_site\\images",
-    "\\_site\\pages"
+    "\\_posts"
   ],
-  "SelectedNode": "\\feed.xml",
+  "SelectedNode": "\\_posts\\2017-04-23-001.markdown",
   "PreviewInSolutionExplorer": false
 }

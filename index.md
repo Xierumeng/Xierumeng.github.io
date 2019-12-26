@@ -15,9 +15,13 @@ This is my website, a hub to all of my other projects and a place to host my com
 * EXTRAS - Miscellaneous stuff.
 
 I apologize in advance if this website is broken or something. I'm just starting to learn how to do this.
+Also, I apologize if images are acting up; I also don't really know how to scale them nicely.
+Feel free to open an issue on Github.
 
 I hope you enjoy my content!
 
 Sincerely,
 
 Xierumeng
+
+![](/images/Tarrasque Adventurers.jpg){:class="img-responsive"}
