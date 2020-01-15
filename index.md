@@ -27,5 +27,3 @@ Sincerely,
 Xierumeng
 
 ![](/images/Tarrasque Adventurers.jpg){:class="img-responsive"}
-
-<p>"TEST"</p>
