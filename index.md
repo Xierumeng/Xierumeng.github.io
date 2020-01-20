@@ -26,4 +26,6 @@ Sincerely,
 
 Xierumeng
 
+P.S. Check out my [Patreon]({{ site.author_patreon_username }})!
+
 ![](/images/Tarrasque Adventurers.jpg){:class="img-responsive"}
