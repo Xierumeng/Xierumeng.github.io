@@ -9,7 +9,7 @@ This is my website, a hub to all of my other projects and a place to host my com
 
 * [PROJECTS]({{ site.url }}/projects) - Link and description of various projects I'm currently working on.
 * [FIRST PAGE]({{ site.url }}/001) - First page of my comics.
-* [LAST PAGE]({{ site.url }}/005) - Last page of my comics.
+* [LAST PAGE]({{ site.url }}/006) - Last page of my comics.
 * [ARCHIVE]({{ site.url }}/archive) - A list of all of my comics.
 * [ABOUT]({{ site.url }}/about) - Some information about myself.
 * [EXTRAS]({{ site.url }}/extras) - Miscellaneous stuff.
