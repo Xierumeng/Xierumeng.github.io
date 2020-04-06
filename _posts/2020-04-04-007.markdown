@@ -1,0 +1,9 @@
+---
+layout: comic
+date:   2020-04-04 01:33:00 -0400
+title:  7. Big brain angry Mr. Goose
+note:   Random character sketch in the early morning hours. Heil Mr. Goose!
+categories: page
+permalink: /007
+---
+![PAGE 007](/pages/007.png){:class="img-responsive"}
