@@ -2,7 +2,7 @@
 layout: comic
 date:   2019-10-26 22:47:00 -0500
 title:  5. The 5 Stages of 1st Years Getting a Quiz Back
-note:   Lowering the bar for success, modelling exponential decay.
+note:   The bar of success falls rapidly in 1A.
 categories: page
 permalink: /005
 ---

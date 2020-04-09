@@ -2,7 +2,7 @@
 layout: comic
 date:   2020-04-06 01:54:00 -0400
 title:  8. The 6 types of exam of questions
-note:   Top right question taken from the ECE 105 F18 Final Examination. Hopefully I answered that correctly.
+note:   Top right question taken from the ECE 105 F18 Final Examination. Hopefully I answered that correctly. For the bottom centre, I got the question and answer from PHD Comics: http://phdcomics.com/comics/archive.php?comicid=993. For the bottom right, I would like to thank u/swegmesterflex for the meme.
 categories: page
 permalink: /008
 ---
