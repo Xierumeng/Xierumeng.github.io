@@ -2,3 +2,35 @@
 layout: post
 ---
 <a href={{ site.url }}{{ page.next_in_category.url }} #top-page>{{ content }}</a>
+
+<ul class="pager">
+    {% for post in site.categories.comic %}
+        {% if post.url == page.url %}
+            {% assign post_index0 = forloop.index0 %}
+            {% assign post_index1 = forloop.index %}
+        {% endif %}
+    {% endfor %}
+    {% for post in site.categories.comic %}
+        {% if post_index0 == forloop.index %}
+            {% assign next_post = post.url %}
+        {% endif %}
+        {% if post_index1 == forloop.index0 %}
+            {% assign prev_post = post.url %}
+        {% endif %}
+    {% endfor %}
+    
+    {% if prev_post %}
+        <li><a class="btn btn-outline-secondary" href={{ prev_post }} #top-page>PREVIOUS</a></li>
+    {% endif %}
+    {% if next_post %}
+        <li><a class="btn btn-outline-primary" href={{ next_post }} #top-page>NEXT</a></li>
+    {% endif %}
+</ul>
+
+
+<!--
+<ul class="pager">
+    <li><a class="btn btn-outline-secondary" href={{ site.url }}{{ page.previous_in_category.url }} #top-page>PREVIOUS</a></li>
+    <li><a class="btn btn-outline-primary" href={{ site.url }}{{ page.next_in_category.url }} #top-page>NEXT</a></li>
+</ul>
+-->
