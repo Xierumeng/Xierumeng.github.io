@@ -11,6 +11,7 @@ This is my website, a hub to all of my other projects and a place to host my com
 * [FIRST COMIC]({{ site.url }}/comics/001) - First page of my comics.
 * [LAST COMIC]({{ site.url }}/comics/008) - Last page of my comics.
 * [ARCHIVE]({{ site.url }}/archive) - A list of all of my comics.
+* [BLAG]({{ site.url }}/blog) - A list of blog posts to my guide to UW.
 * [ABOUT]({{ site.url }}/about) - Some information about myself.
 
 I apologize in advance if this website is broken or something. I'm just starting to learn how to do this.

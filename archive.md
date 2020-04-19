@@ -14,3 +14,7 @@ permalink: /archive
     </li>
   {% endfor %}
 </ul>
+
+## Guide to UW
+
+Please see the [blog](/blog) page.
