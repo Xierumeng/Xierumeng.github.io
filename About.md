@@ -9,12 +9,16 @@ It's not really a comic. More like dank memes about being an engineering student
 
 <!--{% include socialmedia.html %}-->
 
+# About the Blog
+
+I am starting an introductory guide to the University of Waterloo, focused on my program.
+
 # About the Author
 
 Xierumeng enjoys butter tarts, explosions, and SPAAACE. Contrary to popular belief, I can't think in 7 dimensions. Well, maybe abstractly.
 
 {% include authorsocialmedia.html %}
 
-# Acknowledgement
+# Acknowledgements
 
-This website was made using [the Bootstrap framework](http://getbootstrap.com/) and [Jekyll](https://jekyllrb.com/), a static site generator. You can download the comic website code [here](https://github.com/peahatlanding/Webcomic-Jekyll-Theme). Thank you!
+This website was made using [the Bootstrap framework](http://getbootstrap.com/) and [Jekyll](https://jekyllrb.com/), a static site generator. You can download the template comic website code [here](https://github.com/peahatlanding/Webcomic-Jekyll-Theme).

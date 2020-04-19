@@ -1,9 +1,0 @@
----
-layout: comic
-date:   2019-06-23 21:43:00 -0500
-title:  3. Beyond Help
-note:   B E Y O N D I D E A S.
-categories: page
-permalink: /003
----
-![PAGE 003](/pages/003.png){:class="img-responsive"}

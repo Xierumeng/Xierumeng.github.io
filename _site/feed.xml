@@ -5,72 +5,115 @@
     <description>For all things Xierumeng.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Jan 2020 08:48:40 -0500</pubDate>
-    <lastBuildDate>Mon, 20 Jan 2020 08:48:40 -0500</lastBuildDate>
+    <pubDate>Sun, 19 Apr 2020 05:15:24 -0400</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2020 05:15:24 -0400</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title>5. The 5 Stages of 1st Years Getting a Quiz Back</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/pages/005.png&quot; alt=&quot;PAGE 005&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+        <title>8. The 6 types of exam of questions</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/comics/008.png&quot; alt=&quot;PAGE 008&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Top right question taken from the ECE 105 F18 Final Examination. Hopefully I answered that correctly. For the bottom centre, I got the question from &lt;a href=&quot;http://phdcomics.com/comics/archive.php?comicid=993&quot;&gt;PHD Comics&lt;/a&gt;. For the bottom right, I would like to thank &lt;a href=&quot;https://www.reddit.com/user/swegmesterflex&quot;&gt;u/swegmesterflex&lt;/a&gt; for the &lt;a href=&quot;https://www.reddit.com/r/uwaterloo/comments/9zkfo0/can_i_get_an_f_in_chat/&quot;&gt;meme&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 26 Oct 2019 23:47:00 -0400</pubDate>
-        <link>http://localhost:4000/005</link>
-        <guid isPermaLink="true">http://localhost:4000/005</guid>
+        <pubDate>Mon, 06 Apr 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/comics/008</link>
+        <guid isPermaLink="true">http://localhost:4000/comics/008</guid>
         
         
-        <category>page</category>
+        <category>comic</category>
         
       </item>
     
       <item>
-        <title>4. Unforgiving</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/pages/004.png&quot; alt=&quot;PAGE 004&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+        <title>7. Big brain angry Mr. Goose</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/comics/007.png&quot; alt=&quot;PAGE 007&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 07 Aug 2019 21:29:00 -0400</pubDate>
-        <link>http://localhost:4000/004</link>
-        <guid isPermaLink="true">http://localhost:4000/004</guid>
+        <pubDate>Sat, 04 Apr 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/comics/007</link>
+        <guid isPermaLink="true">http://localhost:4000/comics/007</guid>
         
         
-        <category>page</category>
+        <category>comic</category>
+        
+      </item>
+    
+      <item>
+        <title>6. Pi Day Meme Contest Submission</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/comics/006.png&quot; alt=&quot;PAGE 006&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Mar 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/comics/006</link>
+        <guid isPermaLink="true">http://localhost:4000/comics/006</guid>
+        
+        
+        <category>comic</category>
+        
+      </item>
+    
+      <item>
+        <title>5. The 5 Stages of 1st Years Getting a Quiz Back</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/comics/005.png&quot; alt=&quot;PAGE 005&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Oct 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/comics/005</link>
+        <guid isPermaLink="true">http://localhost:4000/comics/005</guid>
+        
+        
+        <category>comic</category>
+        
+      </item>
+    
+      <item>
+        <title>4. Unforgiving marking</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/comics/004.png&quot; alt=&quot;COMIC 004&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Aug 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/comics/004</link>
+        <guid isPermaLink="true">http://localhost:4000/comics/004</guid>
+        
+        
+        <category>comic</category>
         
       </item>
     
       <item>
         <title>3. Beyond Help</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/pages/003.png&quot; alt=&quot;PAGE 003&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/comics/003.png&quot; alt=&quot;COMIC 003&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 23 Jun 2019 22:43:00 -0400</pubDate>
-        <link>http://localhost:4000/003</link>
-        <guid isPermaLink="true">http://localhost:4000/003</guid>
+        <pubDate>Sun, 23 Jun 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/comics/003</link>
+        <guid isPermaLink="true">http://localhost:4000/comics/003</guid>
         
         
-        <category>page</category>
+        <category>comic</category>
         
       </item>
     
       <item>
         <title>2. All I want for Christmas...</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/pages/002.png&quot; alt=&quot;PAGE 002&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/comics/002.png&quot; alt=&quot;COMIC 002&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Dec 2018 23:22:00 -0500</pubDate>
-        <link>http://localhost:4000/002</link>
-        <guid isPermaLink="true">http://localhost:4000/002</guid>
+        <pubDate>Tue, 04 Dec 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/comics/002</link>
+        <guid isPermaLink="true">http://localhost:4000/comics/002</guid>
         
         
-        <category>page</category>
+        <category>comic</category>
         
       </item>
     
       <item>
         <title>1. ECE 2023's Policy 71</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/pages/001.png&quot; alt=&quot;PAGE 001&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/comics/001.png&quot; alt=&quot;COMIC 001&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Dec 2018 21:36:00 -0500</pubDate>
-        <link>http://localhost:4000/001</link>
-        <guid isPermaLink="true">http://localhost:4000/001</guid>
+        <pubDate>Tue, 04 Dec 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/comics/001</link>
+        <guid isPermaLink="true">http://localhost:4000/comics/001</guid>
         
         
-        <category>page</category>
+        <category>comic</category>
         
       </item>
     
