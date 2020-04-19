@@ -1,9 +1,0 @@
----
-layout: comic
-date:   2020-03-13 01:00:00 -0500
-title:  6. Pi Day Meme Contest Submission
-note:   Math, Engineering, fast Engineering, Astronomy.
-categories: page
-permalink: /006
----
-![PAGE 006](/pages/006.png){:class="img-responsive"}

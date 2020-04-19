@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="comic-panel center">
+    <a name="top-page"></a>
+    <h2>{{ page.title }}</h2>
+    <p>{{ page.note }}</p>
+    {{ content }}
+</div><!--comic div-->
+<ul class="pager">
+    <li><a class="btn btn-outline-secondary" href={{ site.url }}{{ page.previous_in_category.url }} #top-page>PREVIOUS</a></li>
+    <li><a class="btn btn-outline-primary" href={{ site.url }}{{ page.next_in_category.url }} #top-page>NEXT</a></li>
+</ul>

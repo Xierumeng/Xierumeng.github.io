@@ -8,11 +8,11 @@ permalink: /index.html
 This is my website, a hub to all of my other projects and a place to host my comics.
 
 * [PROJECTS]({{ site.url }}/projects) - Link and description of various projects I'm currently working on.
-* [FIRST PAGE]({{ site.url }}/001) - First page of my comics.
-* [LAST PAGE]({{ site.url }}/008) - Last page of my comics.
+* [FIRST COMIC]({{ site.url }}/comics/001) - First page of my comics.
+* [LAST COMIC]({{ site.url }}/comics/008) - Last page of my comics.
 * [ARCHIVE]({{ site.url }}/archive) - A list of all of my comics.
+* [BLAG]({{ site.url }}/blog) - A list of blog posts to my guide to UW.
 * [ABOUT]({{ site.url }}/about) - Some information about myself.
-* [EXTRAS]({{ site.url }}/extras) - Miscellaneous stuff.
 
 I apologize in advance if this website is broken or something. I'm just starting to learn how to do this.
 Also, I apologize if images are acting up; I also don't really know how to scale them nicely.
