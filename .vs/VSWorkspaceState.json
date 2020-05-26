@@ -1,13 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\css",
-    "\\images",
+    "\\comics",
     "\\pages",
     "\\_includes",
     "\\_layouts",
-    "\\_posts"
+    "\\_plugins",
+    "\\_posts",
+    "\\_posts\\Blog",
+    "\\_posts\\Comic",
+    "\\_site\\pages"
   ],
-  "SelectedNode": "\\_posts\\2018-12-04-001.markdown",
+  "SelectedNode": "\\Readme.md",
   "PreviewInSolutionExplorer": false
 }
