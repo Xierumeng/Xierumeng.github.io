@@ -9,7 +9,7 @@ This is my website, a hub to all of my other projects and a place to host my com
 
 * [PROJECTS]({{ site.url }}/projects) - Link and description of various projects I'm currently working on.
 * [FIRST COMIC]({{ site.url }}/comics/001) - First page of my comics.
-* [LAST COMIC]({{ site.url }}/comics/008) - Last page of my comics.
+* [LAST COMIC]({{ site.url }}/comics/009) - Last page of my comics.
 * [ARCHIVE]({{ site.url }}/archive) - A list of all of my comics.
 * [BLAG]({{ site.url }}/blog) - A list of blog posts to my guide to UW.
 * [ABOUT]({{ site.url }}/about) - Some information about myself.
