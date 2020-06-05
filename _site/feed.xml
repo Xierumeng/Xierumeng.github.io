@@ -5,9 +5,22 @@
     <description>For all things Xierumeng.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 May 2020 01:13:42 -0400</pubDate>
-    <lastBuildDate>Thu, 28 May 2020 01:13:42 -0400</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2020 21:40:04 -0400</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2020 21:40:04 -0400</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>9. git push origin master -f</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/comics/009-3D7aj5X4aIa3Qokp-uFw6TCQR7l8mkZfZ.png&quot; alt=&quot;PAGE 009&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Jun 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/comics/009</link>
+        <guid isPermaLink="true">http://localhost:4000/comics/009</guid>
+        
+        
+        <category>comic</category>
+        
+      </item>
     
       <item>
         <title>1-0. The Right Fit</title>
@@ -304,19 +317,6 @@ However, marks are not the only factor in determining chances of being accepted.
         <pubDate>Wed, 07 Aug 2019 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/comics/004</link>
         <guid isPermaLink="true">http://localhost:4000/comics/004</guid>
-        
-        
-        <category>comic</category>
-        
-      </item>
-    
-      <item>
-        <title>3. Beyond Help</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/comics/003-jSxAjhULzRECx4ZE-7U47WlOzbCehZtXq.png&quot; alt=&quot;COMIC 003&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 23 Jun 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/comics/003</link>
-        <guid isPermaLink="true">http://localhost:4000/comics/003</guid>
         
         
         <category>comic</category>
