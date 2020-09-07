@@ -2,7 +2,7 @@
 layout: post
 date:   2020-09-06
 title:  Xierumeng's Guide to Resume Creation
-note:   With thanks to Gibstick and Mewtwo, UW alumni.
+note:   With thanks to Gibstick and Mewtwo (UW alumni) as well as my Patrons.
 categories: guide
 permalink: /resources/resume-guide
 ---
