@@ -8,7 +8,7 @@ permalink: /resources/resume-guide
 ---
 Also, remember that this is a guide, and everything I write here is only a suggestion. Your resume is your resume and you are free to accept or reject any suggestions/feedback.
 
-# General
+General
 
 These are the basics.
 
@@ -21,7 +21,7 @@ Employers will spend between 15 and 60 seconds looking at your resume, looking a
 * Professional - Your resume should be professional. This means no spelling or grammar mistakes, no vulgarity, etc. It should not be in first person.
 * Images - There should be no images (other than perhaps icons).
 
-## Layout
+Layout
 
 * Columns - I prefer one column layouts over two column layouts, because when I look at two column layouts I'm not sure where to look which is very distracting. Automated scanning systems will also most likely screw up on two column layouts.
 * Margins - I recommend margins of 15 mm to 25 mm.
@@ -29,13 +29,13 @@ Employers will spend between 15 and 60 seconds looking at your resume, looking a
 * Separation - Make sure each section and sub-section are properly separated.
 * Placement - Order your sub-sections by importance, not chronologically. A good older project should be higher than a mediocre new project.
 
-## Font
+Font
 
 * Type - I prefer sans-serif fonts because they have less clutter. You should avoid monospaced fonts or fonts that are similar to monospaced fonts.
 * Size - Don't make it too small.
 * Colour - Some colour adds personality to your resume. However, make sure that it will appear alright if converted to greyscale (most likely through a printer). Also make sure colouring is consistent. I'm not a fan of multiple colours on a single line.
 
-# Header
+Header
 
 * Some resumes have light text on dark background. I find it distracting as it makes the resume feel "top-heavy". Also RIP ink usage if it's printed.
 * Name - The name should be big and centred (maybe even bolded).
@@ -48,7 +48,7 @@ Employers will spend between 15 and 60 seconds looking at your resume, looking a
     * Website - If you have a website, it's another great way of showcasing your projects. You can also add personal touches (such as hobbies) that would otherwise not be appropriate on GitHub or your resume.
     * Address - Not needed.
 
-# Sections
+Sections
 
 * Titles - The titles should be large enough that they are distinct from the sub-titles and body text, but not in a way where they completely overshadow the content (i.e. don't make them too big). It should also be different (e.g. bold and/or uppercase). Horizontal lines/underlining can be used to help separation.
 * Types - I recommend four sections. More detail in each one below.
@@ -58,7 +58,7 @@ Employers will spend between 15 and 60 seconds looking at your resume, looking a
     * Education - If you're applying through Waterlooworksn't, this goes last. Otherwise second.
     * Awards - If you've won any large awards (e.g. Loran) then it may be worthwhile to include them.
 
-## Skills
+Skills
 
 This section should be a very brief summary of your familiarity with different tools, and basically is consisted of keywords (without any extra fluff (e.g. no "adept in")).
 
@@ -66,29 +66,29 @@ This section should be a very brief summary of your familiarity with different t
 * Tools - This could be "technologies" or "libraries" or "frameworks"; essentially all the tools you are familiar with (e.g. "Git").
 If you're applying for jobs in the government or in a foreign country then it may be useful to list the relevant human languages you know (e.g. "French").
 
-## Experience
+Experience
 
 This section contains any relevant work and volunteer experience. If you have no/very little relevant experience, add one or two irrelevant experiences in this section. This section should not be missing or empty.
 
-### Sub-sections
+Sub-sections
 
 * Sub-titles - Name of company, position title, languages/tools used, location (optional). This can be two lines.
 * Dates - Include the start and end date ("present" if it is ongoing when you submit your resume). The format I use is "Abbreviated month year - Abbreviated month year" e.g. "Sep. 2005 - June 2008". I put the dates on the right margin.
 * Points - There should be two to five points in each sub-section. More detail about points below.
 
-## Projects
+Projects
 
 This section contains any side projects you've worked on in your free time. Make sure to include projects that have enough complexity to be interesting; they should be doing something.
 
 Small high school/university assignments aren't usually worth putting on your resume unless you've extended them since submission. Also be careful putting assignment code online, as the university may invoke policy 71 (academic integrity) on you.
 
-### Sub-sections
+Sub-sections
 
 * Sub-titles - Name of the project, languages/tools used. This should be one line. You can also add a link to GitHub here.
 * Dates - I used to have dates and then I removed them because they weren't important.
 * Points - There should be two to five points in each sub-section. More detail about points below.
 
-## Education
+Education
 
 This section contains your education. Don't bother including high school.
 
@@ -98,7 +98,7 @@ This section contains your education. Don't bother including high school.
 * Courses - You can put any course names you think are relevant (e.g. "Algorithms and Data Structures"). Don't put course codes as employers won't bother looking those up.
 * School awards - You can put any awards that you think are worthwhile. However, President's Scholarship is one that you shouldn't as pretty much everyone got it.
 
-# Points
+Points
 
 Points are the details that the employer will look at after the initial screening. Points should be concise and direct.
 
@@ -113,7 +113,7 @@ Points are the details that the employer will look at after the initial screenin
 * Placement - Order your points from most important to least important. However, the first point could be a summary of what you did over the term.
 * Length - Points should be able to fit on a single line. Very rarely would a point occupy two lines. Five is right out.
 
-## Example 1
+Example 1
 
 *Implemented a matrix solver with the [math] library to generate a correction from identified pixels in images*
 
@@ -132,7 +132,7 @@ Points are the details that the employer will look at after the initial screenin
 * Placement - N/A.
 * Length - Fits on one line in my resume.
 
-## Example 2
+Example 2
 
 *Wrote [#] unit tests in log collection bash scripts to validate regex scrubbing of personally identifiable information*
 
@@ -151,7 +151,7 @@ Points are the details that the employer will look at after the initial screenin
 * Placement - N/A.
 * Length - Fits on one line in my resume.
 
-## Example 3
+Example 3
 
 *Demonstrated knowledge of physics engines by implementing semi-implicit Euler integration math and quaternions for rotation to simulate ship movement*
 
@@ -161,7 +161,7 @@ The action verb is weak, and by explicitly stating the skill, the more interesti
 
 The action verb is better and the skill demonstrated has been improved (not only knowledge of, but how to implement a physics engine). Plus it's more concise.
 
-# External Resources
+External Resources
 
 * [Example resume](https://www.careercup.com/resume) (I personally think it's mediocre).
 * [Engineering Society resume advice](https://www.engsoc.uwaterloo.ca/resources/resume-help/resume-faqs/).
