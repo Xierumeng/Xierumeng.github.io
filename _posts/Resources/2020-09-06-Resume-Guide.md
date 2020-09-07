@@ -166,3 +166,7 @@ The action verb is better and the skill demonstrated has been improved (not only
 * [Example resume](https://www.careercup.com/resume) (I personally think it's mediocre).
 * [Engineering Society resume advice](https://www.engsoc.uwaterloo.ca/resources/resume-help/resume-faqs/).
 * Go to critique sessions hosted by the Engineering Society and the ECE Society, as well as asking upper years.
+
+# Patrons
+
+* Ali Naqvi
