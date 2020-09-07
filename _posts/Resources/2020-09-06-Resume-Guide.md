@@ -24,7 +24,7 @@ Employers will spend between 15 and 60 seconds looking at your resume, looking a
 ## Layout
 
 * Columns - I prefer one column layouts over two column layouts, because when I look at two column layouts I'm not sure where to look which is very distracting. Automated scanning systems will also most likely screw up on two column layouts.
-* Margins - I recommend margins of 15 mm to 25 mm.
+* Margins - I recommend margins of 15 mm to 25 mm. Gibstick (UW alumnus) recommends margins of at least 25 mm. Just don't make them too narrow.
 * Spacing - Make sure the spacing between lines is good.
 * Separation - Make sure each section and sub-section are properly separated.
 * Placement - Order your sub-sections by importance, not chronologically. A good older project should be higher than a mediocre new project.
