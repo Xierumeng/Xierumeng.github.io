@@ -20,3 +20,15 @@ As I am a computer engineering student, any information I have will focus on my 
     </li>
   {% endfor %}
 </ul>
+
+## Resources
+
+Miscellaneous information and guides.
+
+<ul class="post-list archive-ul">
+  {% for post in site.categories.guide %}
+    <li class="archive-li">
+      {{ post.date | date: "%Y-%m-%d" }} <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
