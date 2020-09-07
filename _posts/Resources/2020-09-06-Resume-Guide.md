@@ -2,11 +2,11 @@
 layout: post
 date:   2020-09-06
 title:  Xierumeng's Guide to Resume Creation
-note:   When I give resume feedback I essentially re-iterate the following content.
+note:   With thanks to Gibstick and Mewtwo, UW alumni.
 categories: guide
 permalink: /resources/resume-guide
 ---
-Also, remember that this is a guide, and everything I write here is only a suggestion. Your resume is your resume and you are free to accept or reject any suggestions/feedback.
+When I give resume feedback I essentially re-iterate the following content. Also, remember that this is a guide, and everything I write here is only a suggestion. Your resume is your resume and you are free to accept or reject any suggestions/feedback.
 
 # General
 
@@ -24,7 +24,7 @@ Employers will spend between 15 and 60 seconds looking at your resume, looking a
 ## Layout
 
 * Columns - I prefer one column layouts over two column layouts, because when I look at two column layouts I'm not sure where to look which is very distracting. Automated scanning systems will also most likely screw up on two column layouts.
-* Margins - I recommend margins of 15 mm to 25 mm. Gibstick (UW alumnus) recommends margins of at least 25 mm. Just don't make them too narrow.
+* Margins - I recommend margins of 15 mm to 25 mm. Gibstick recommends margins of at least 25 mm: "The majority of resumes I see have tiny ass margins that make it unreadable cause your eyes have to travel five miles across the page". Just don't make them too narrow.
 * Spacing - Make sure the spacing between lines is good.
 * Separation - Make sure each section and sub-section are properly separated.
 * Placement - Order your sub-sections by importance, not chronologically. A good older project should be higher than a mediocre new project.
@@ -39,7 +39,7 @@ Employers will spend between 15 and 60 seconds looking at your resume, looking a
 
 * Some resumes have light text on dark background. I find it distracting as it makes the resume feel "top-heavy". Also RIP ink usage if it's printed.
 * Name - The name should be big and centred (maybe even bolded).
-* Year and program - I personally add my year and program to the header, but upper years critiquing my resume tell me to remove it. So it's up to you.
+* Year and program - Don't bother as it's redundant information. If you're applying through Waterlooworksn't, then the application package will have your year and program. If not, then your Education section will be first (as stated below).
 * Contact and information - Icons can be used as separators and they look nicer than e.g. "Email:". Make sure to hyperlink, but for the displayed text you can drop the protocol ("https://") and "www" e.g. [linkedin.com/](https://www.linkedin.com/).
     * Email - This should be your UW email, and should be "first.last@uwaterloo.ca" or something similar. You can set this in WatIAM.
     * Phone - Self-explanatory but not necessary. No hurt in including or excluding it.
@@ -52,23 +52,23 @@ Employers will spend between 15 and 60 seconds looking at your resume, looking a
 
 * Titles - The titles should be large enough that they are distinct from the sub-titles and body text, but not in a way where they completely overshadow the content (i.e. don't make them too big). It should also be different (e.g. bold and/or uppercase). Horizontal lines/underlining can be used to help separation.
 * Types - I recommend four sections. More detail in each one below.
-    * Skills - Rather than "Summary of Qualifications". This should be at the top.
+    * Skills - Rather than "Summary of Qualifications". This should be at the top. Mewtwo writes to move this to the bottom "once u actually have experience".
     * Projects - Depending on your side projects vs work experience, either Projects or Experience should be before the other.
     * Experience - Rather than "Relevant Experience".
-    * Education - If you're applying through Waterlooworksn't, this goes last. Otherwise second.
-    * Awards - If you've won any large awards (e.g. Loran) then it may be worthwhile to include them.
+    * Education - If you're applying through Waterlooworksn't, this goes last. Otherwise first.
+    * Awards/Achievements - If you've won any large awards (e.g. Loran) then it may be worthwhile to include them.
 
 ## Skills
 
-This section should be a very brief summary of your familiarity with different tools, and basically is consisted of keywords (without any extra fluff (e.g. no "adept in")).
+This section should be a very brief summary of your familiarity with different tools, and basically is consisted of keywords.
 
 * Languages - Programming languages you are familiar with.
 * Tools - This could be "technologies" or "libraries" or "frameworks"; essentially all the tools you are familiar with (e.g. "Git").
-If you're applying for jobs in the government or in a foreign country then it may be useful to list the relevant human languages you know (e.g. "French").
+If you're applying for jobs in the government or in a foreign country then it may be useful to list the relevant human languages you know (e.g. "French"). Mewtwo doesn't think it will be though. 
 
 ## Experience
 
-This section contains any relevant work and volunteer experience. If you have no/very little relevant experience, add one or two irrelevant experiences in this section. This section should not be missing or empty.
+This section contains any relevant work and volunteer experience. If you have no/very little relevant experience, add one or two irrelevant experiences in this section (something is better than nothing). This section should not be missing or empty.
 
 ### Sub-sections
 
@@ -80,7 +80,7 @@ This section contains any relevant work and volunteer experience. If you have no
 
 This section contains any side projects you've worked on in your free time. Make sure to include projects that have enough complexity to be interesting; they should be doing something.
 
-Small high school/university assignments aren't usually worth putting on your resume unless you've extended them since submission. Also be careful putting assignment code online, as the university may invoke policy 71 (academic integrity) on you.
+Small high school/university assignments aren't usually worth putting on your resume unless you've extended them since submission or you have no other technical experience (something is better than nothing). Also be careful putting assignment code online, as the university may invoke policy 71 (academic integrity) on you.
 
 ### Sub-sections
 
