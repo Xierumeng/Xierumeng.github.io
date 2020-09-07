@@ -73,7 +73,8 @@ This section contains any relevant work and volunteer experience. If you have no
 ### Sub-sections
 
 * Sub-titles - Name of company, position title, languages/tools used, location (optional). This can be two lines.
-* Dates - Include the start and end date ("present" if it is ongoing when you submit your resume). The format I use is "Abbreviated month year - Abbreviated month year" e.g. "Sep. 2005 - June 2008". I put the dates on the right margin.
+* Dates - Include the start and end date ("present" if it is ongoing when you submit your resume). I put the dates on the right margin. The format I use is "Abbreviated month year - Abbreviated month year".
+    * There are multiple ways of abbreviating the months: Jun. vs June, Jul. vs July, Sep. vs Sept. Just keep it consistent throughout e.g. if September is abbreviated to "Sept." then abbreviate all instances in the same manner.
 * Points - There should be two to five points in each sub-section. More detail about points below.
 
 ## Projects
