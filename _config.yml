@@ -14,10 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Xierumeng's Website
-tab_title: Xierumeng #This text shows up on the browser tab
+tab_title: Xierumeng # This text shows up on the browser tab
 email: xierumeng2@gmail.com
-description: For all things Xierumeng.
+description: I may or may not know what I'm doing.
 url: "https://xierumeng.github.io" # the base hostname & protocol for your site
+copyright: "© 2020 Xierumeng. All rights reserved." # Hopefully the copyright symbol renders correctly
 
 # Author Social Media
 author_reddit_username: https://www.reddit.com/user/xierumeng
