@@ -6,7 +6,7 @@ note:   With thanks to Gibstick and Mewtwo (UW alumni) as well as my Patrons.
 categories: guide
 permalink: /resources/resume-guide
 ---
-When I give resume feedback I essentially re-iterate the following content. Also, remember that this is a guide, and everything I write here is only a suggestion. Your resume is your resume and you are free to accept or reject any suggestions/feedback.
+When I give r&eacute;sum&eacute; feedback I essentially re-iterate the following content. Also, remember that this is a guide, and everything I write here is only a suggestion. Your resume is your resume and you are free to accept or reject any suggestions/feedback.
 
 # General
 
