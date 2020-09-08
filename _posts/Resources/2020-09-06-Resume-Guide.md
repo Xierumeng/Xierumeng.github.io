@@ -162,31 +162,18 @@ Points are the details that the employer will look at after the initial screenin
 *Implemented a matrix solver with the [math] library to generate a correction from identified pixels in images*
 
 * Action verb - "Implemented".
-
 * What-How-Why.
-
     * What - "Implemented a matrix solver".
-
     * How - "with the [math] library".
-
     * Why - "to generate a correction …".
-
 * Quantification - None.
-
 * Skill demonstration.
-
     * Linear algebra - "matrix".
-
     * Usage of external tools - "[math] library".
-
     * Computer vision - "identified pixels in images".
-
 * Sentence.
-
     *  [Xierumeng] implemented a matrix solver ….
-
 * Placement - N/A.
-
 * Length - Fits on one line in my r&eacute;sum&eacute;.
 
 ## Example 2
@@ -194,31 +181,18 @@ Points are the details that the employer will look at after the initial screenin
 *Wrote [#] unit tests in log collection bash scripts to validate regex scrubbing of personally identifiable information*
 
 * Action verb - "Wrote". Personally I think it's a bit weak.
-
 * What-How-Why.
-
     * What - "Wrote [#] unit tests in log collection bash scripts".
-
     * How - "bash scripts".
-
     * Why - "to validate regex scrubbing …".
-
 * Quantification - "[#] unit tests".
-
 * Skill demonstration.
-
     * Unit testing - "unit tests".
-
     * Bash scripting - "bash scripts".
-
     * Regular expressions - "regex scrubbing".
-
 * Sentence
-
     * [Xierumeng] wrote [#] unit tests ….
-
 * Placement - N/A.
-
 * Length - Fits on one line in my r&eacute;sum&eacute;.
 
 Possible improvement: *Validated regex scrubbing of personally identifiable information by writing [#] unit tests in log collection bash scripts*
@@ -235,9 +209,9 @@ The action verb is better and the skill demonstrated has been improved (not only
 
 # External Resources
 
-* [Example r&eacute;sum&eacute;](https://www.careercup.com/r&eacute;sum&eacute;) (I personally think it's mediocre).
+* [Good starting r&eacute;sum&eacute;](https://www.careercup.com/resume) but it could definitely be improved.
 
-* [Engineering Society r&eacute;sum&eacute; advice](https://www.engsoc.uwaterloo.ca/resources/r&eacute;sum&eacute;-help/r&eacute;sum&eacute;-faqs/).
+* [Engineering Society r&eacute;sum&eacute; resources](https://www.engsoc.uwaterloo.ca/resources/resume-help/).
 
 * Go to critique sessions hosted by the Engineering Society and the ECE Society.
 
