@@ -2,10 +2,12 @@
 layout: post
 date:   2020-09-06
 title:  Xierumeng's Guide to R&eacute;sum&eacute; Creation
-note:   With thanks to Gibstick and Mewtwo (UW alumni) as well as my Patrons.
+note:   This is for making r&eacute;sum&eacute;s geared towards software development postings (and similar jobs).
 categories: guide
 permalink: /resources/resume-guide
 ---
+With thanks to Gibstick and Mewtwo (UW alumni) as well as my Patrons.
+
 When I give r&eacute;sum&eacute; feedback I essentially re-iterate the following content. Also, remember that this is a guide, and everything I write here is only a suggestion. Your r&eacute;sum&eacute; is your r&eacute;sum&eacute; and you are free to accept or reject any suggestions/feedback.
 
 # General
