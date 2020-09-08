@@ -1,30 +1,30 @@
 ---
 layout: post
 date:   2020-09-06
-title:  Xierumeng's Guide to Resume Creation
+title:  Xierumeng's Guide to R&eacute;sum&eacute; Creation
 note:   With thanks to Gibstick and Mewtwo (UW alumni) as well as my Patrons.
 categories: guide
 permalink: /resources/resume-guide
 ---
-When I give r&eacute;sum&eacute; feedback I essentially re-iterate the following content. Also, remember that this is a guide, and everything I write here is only a suggestion. Your resume is your resume and you are free to accept or reject any suggestions/feedback.
+When I give r&eacute;sum&eacute; feedback I essentially re-iterate the following content. Also, remember that this is a guide, and everything I write here is only a suggestion. Your r&eacute;sum&eacute; is your r&eacute;sum&eacute; and you are free to accept or reject any suggestions/feedback.
 
 # General
 
 These are the basics.
 
-> An office. On a desk, a stack of resumes from hopeful applicants. The employer sitting behind said desk starts its work on screening potential interview candidates by picking up half the stack and tossing it into the recycling bin. "I don't hire unlucky people," it states, before looking over the first survivor.
+> An office. On a desk, a stack of r&eacute;sum&eacute;s from hopeful applicants. The employer sitting behind said desk starts its work on screening potential interview candidates by picking up half the stack and tossing it into the recycling bin. "I don't hire unlucky people," it states, before looking over the first survivor.
 
-Employers will spend between 15 and 60 seconds looking at your resume, looking at possibly hundreds of them over several days. Therefore, it is critical to convey your eligibility in this extremely short period by having a well-organized resume.
+Employers will spend between 15 and 60 seconds looking at your r&eacute;sum&eacute;, looking at possibly hundreds of them over several days. Therefore, it is critical to convey your eligibility in this extremely short period by having a well-organized r&eacute;sum&eacute;.
 
-* Length - The length of your resume should be at most one page. If you find yourself running out of space, you should remove content or re-arrange formatting and layout.
+* Length - The length of your r&eacute;sum&eacute; should be at most one page. If you find yourself running out of space, you should remove content or re-arrange formatting and layout.
 * Consistency - Inconsistent formatting will throw the employer off (e.g. if some points have periods at the end while others don't).
-* Professional - Your resume should be professional. This means no spelling or grammar mistakes, no vulgarity, etc. It should not be in first person.
+* Professional - Your r&eacute;sum&eacute; should be professional. This means no spelling or grammar mistakes, no vulgarity, etc. It should not be in first person.
 * Images - There should be no images (other than perhaps icons).
 
 ## Layout
 
 * Columns - I prefer one column layouts over two column layouts, because when I look at two column layouts I'm not sure where to look which is very distracting. Automated scanning systems will also most likely screw up on two column layouts.
-* Margins - I recommend margins of 15 mm to 25 mm. Gibstick recommends margins of at least 25 mm: "The majority of resumes I see have tiny ass margins that make it unreadable cause your eyes have to travel five miles across the page". Just don't make them too narrow.
+* Margins - I recommend margins of 15 mm to 25 mm. Gibstick recommends margins of at least 25 mm: "The majority of r&eacute;sum&eacute;s I see have tiny ass margins that make it unreadable cause your eyes have to travel five miles across the page". Just don't make them too narrow.
 * Spacing - Make sure the spacing between lines is good.
 * Separation - Make sure each section and sub-section are properly separated.
 * Placement - Order your sub-sections by importance, not chronologically. A good older project should be higher than a mediocre new project.
@@ -33,11 +33,11 @@ Employers will spend between 15 and 60 seconds looking at your resume, looking a
 
 * Type - I prefer sans-serif fonts because they have less clutter. You should avoid monospaced fonts or fonts that are similar to monospaced fonts.
 * Size - Don't make it too small.
-* Colour - Some colour adds personality to your resume. However, make sure that it will appear alright if converted to greyscale (most likely through a printer). Also make sure colouring is consistent. I'm not a fan of multiple colours on a single line.
+* Colour - Some colour adds personality to your r&eacute;sum&eacute;. However, make sure that it will appear alright if converted to greyscale (most likely through a printer). Also make sure colouring is consistent. I'm not a fan of multiple colours on a single line.
 
 # Header
 
-* Some resumes have light text on dark background. I find it distracting as it makes the resume feel "top-heavy". Also RIP ink usage if it's printed.
+* Some r&eacute;sum&eacute;s have light text on dark background. I find it distracting as it makes the r&eacute;sum&eacute; feel "top-heavy". Also RIP ink usage if it's printed.
 * Name - The name should be big and centred (maybe even bolded).
 * Year and program - Don't bother as it's redundant information. If you're applying through Waterlooworksn't, then the application package will have your year and program. If not, then your Education section will be first (as stated below).
 * Contact and information - Icons can be used as separators and they look nicer than e.g. "Email:". Make sure to hyperlink, but for the displayed text you can drop the protocol ("https://") and "www" e.g. [linkedin.com/](https://www.linkedin.com/).
@@ -45,7 +45,7 @@ Employers will spend between 15 and 60 seconds looking at your resume, looking a
     * Phone - Self-explanatory but not necessary. No hurt in including or excluding it.
     * GitHub - GitHub or another code hosting website is a great way of showcasing your projects.
     * LinkedIn - I never found a good use for LinkedIn other than an obligatory timeline of my life. I have it mainly because it's generally expected.
-    * Website - If you have a website, it's another great way of showcasing your projects. You can also add personal touches (such as hobbies) that would otherwise not be appropriate on GitHub or your resume.
+    * Website - If you have a website, it's another great way of showcasing your projects. You can also add personal touches (such as hobbies) that would otherwise not be appropriate on GitHub or your r&eacute;sum&eacute;.
     * Address - Not needed.
 
 # Sections
@@ -73,7 +73,7 @@ This section contains any relevant work and volunteer experience. If you have no
 ### Sub-sections
 
 * Sub-titles - Name of company, position title, languages/tools used, location (optional). This can be two lines.
-* Dates - Include the start and end date ("present" if it is ongoing when you submit your resume). I put the dates on the right margin. The format I use is "Abbreviated month year - Abbreviated month year" e.g. "Jan. 2005 - Dec. 2008".
+* Dates - Include the start and end date ("present" if it is ongoing when you submit your r&eacute;sum&eacute;). I put the dates on the right margin. The format I use is "Abbreviated month year - Abbreviated month year" e.g. "Jan. 2005 - Dec. 2008".
     * There are multiple ways of abbreviating the months: Jun. vs June, Jul. vs July, Sep. vs Sept. Just keep it consistent throughout e.g. if September is abbreviated to "Sept." then abbreviate all instances in the same manner.
 * Points - There should be two to five points in each sub-section. More detail about points below.
 
@@ -81,7 +81,7 @@ This section contains any relevant work and volunteer experience. If you have no
 
 This section contains any side projects you've worked on in your free time. Make sure to include projects that have enough complexity to be interesting; they should be doing something.
 
-Small high school/university assignments aren't usually worth putting on your resume unless you've extended them since submission or you have no other technical experience (something is better than nothing). Also be careful putting assignment code online, as the university may invoke policy 71 (academic integrity) on you.
+Small high school/university assignments aren't usually worth putting on your r&eacute;sum&eacute; unless you've extended them since submission or you have no other technical experience (something is better than nothing). Also be careful putting assignment code online, as the university may invoke policy 71 (academic integrity) on you.
 
 ### Sub-sections
 
@@ -131,7 +131,7 @@ Points are the details that the employer will look at after the initial screenin
 * Sentence.
     *  [Xierumeng] implemented a matrix solver ….
 * Placement - N/A.
-* Length - Fits on one line in my resume.
+* Length - Fits on one line in my r&eacute;sum&eacute;.
 
 ## Example 2
 
@@ -150,7 +150,9 @@ Points are the details that the employer will look at after the initial screenin
 * Sentence
     * [Xierumeng] wrote [#] unit tests ….
 * Placement - N/A.
-* Length - Fits on one line in my resume.
+* Length - Fits on one line in my r&eacute;sum&eacute;.
+
+Possible improvement: *Validated regex scrubbing of personally identifiable information by writing [#] unit tests in log collection bash scripts*
 
 ## Example 3
 
@@ -164,8 +166,8 @@ The action verb is better and the skill demonstrated has been improved (not only
 
 # External Resources
 
-* [Example resume](https://www.careercup.com/resume) (I personally think it's mediocre).
-* [Engineering Society resume advice](https://www.engsoc.uwaterloo.ca/resources/resume-help/resume-faqs/).
+* [Example r&eacute;sum&eacute;](https://www.careercup.com/r&eacute;sum&eacute;) (I personally think it's mediocre).
+* [Engineering Society r&eacute;sum&eacute; advice](https://www.engsoc.uwaterloo.ca/resources/r&eacute;sum&eacute;-help/r&eacute;sum&eacute;-faqs/).
 * Go to critique sessions hosted by the Engineering Society and the ECE Society, as well as asking upper years.
 
 # Patrons
