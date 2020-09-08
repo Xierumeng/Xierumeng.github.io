@@ -76,6 +76,10 @@ body {
   font-family: 'Fredoka One', cursive;
 }
 
+.jumbotron h2 {
+  font-family: 'Fredoka One', cursive;
+}
+
 .jumbotron p {
   font-family: 'Roboto', sans-serif;
 }

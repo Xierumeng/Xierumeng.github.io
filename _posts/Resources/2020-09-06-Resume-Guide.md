@@ -210,11 +210,8 @@ The action verb is better and the skill demonstrated has been improved (not only
 # External Resources
 
 * [Good starting r&eacute;sum&eacute;](https://www.careercup.com/resume) but it could definitely be improved.
-
 * [Engineering Society r&eacute;sum&eacute; resources](https://www.engsoc.uwaterloo.ca/resources/resume-help/).
-
 * Go to critique sessions hosted by the Engineering Society and the ECE Society.
-
 * Bug some upper years.
 
 # Patrons
