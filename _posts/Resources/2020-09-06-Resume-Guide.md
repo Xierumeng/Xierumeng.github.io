@@ -6,7 +6,7 @@ note:   This is for making r&eacute;sum&eacute;s geared towards software develop
 categories: guide
 permalink: /resources/resume-guide
 ---
-With thanks to Gibstick and Mewtwo (UW alumni) as well as my Patrons.
+With thanks to Gibstick and Mewtwo (UW alumni), Kris Sousa (UW ECE 2021), as well as my Patrons.
 
 When I give r&eacute;sum&eacute; feedback I essentially re-iterate the following content. Also, remember that this is a guide, and everything I write here is only a suggestion. Your r&eacute;sum&eacute; is your r&eacute;sum&eacute; and you are free to accept or reject any suggestions/feedback.
 
@@ -52,7 +52,7 @@ Employers will spend between 15 and 60 seconds looking at your r&eacute;sum&eacu
 
 * Name - The name should be big and centred (maybe even bolded).
 
-* Year and program - Don't bother as it's redundant information. If you're applying through Waterlooworksn't, then the application package will have your year and program. If not, then your Education section will be first (as stated below).
+* Year and program - Possibly redundant information. If you're applying through Waterlooworksn't, then the application package will have your year and program. If not, then your Education section will be first (as stated below). Kris Sousa thinks it's worthwhile. Up to you.
 
 * Contact and information - Icons can be used as separators and they look nicer than e.g. "Email:". Make sure to hyperlink, but for the displayed text you can drop the protocol ("https://") and "www" e.g. [linkedin.com/](https://www.linkedin.com/).
 
