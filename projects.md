@@ -5,28 +5,36 @@ permalink: /projects
 ---
 # Projects
 
-## Space Combat Simulator
-
-* A somewhat realistic combat simulator, similar to KSP and Children of a Dead Earth, based on mid-future speculative technologies.
-* Superconductors and fusion drives are assumed to have matured and are common throughout this universe. 3D printing is ubiquitous.
-* Currently on hold.
+Most of my projects are kept on my [GitHub page](https://github.com/Xierumeng).
 
 ## FTL Event Editor
 
-* A user-friendly method of modding FTL Faster Than Light, specifically, editing the XML data files for its events.
-* Also contains a simulation feature for debugging purposes.
-* Currently in development.
+Currently in development.
 
-## Repository of Knowledge
+This is a user-friendly Windows program for modding the game FTL Faster Than Light. Specifically, editing the XML data files for its story events. It also contains a simulation feature for debugging purposes as patching and opening the game takes some time.
 
-* An storage of information resources for engineering students.
-
-## Personal website
-
-* A place to link it all together (and somewhere to store my comics).
-* You're here now!
+[GitHub](https://github.com/Xierumeng/FTL-Event-Editor).
 
 ## UWaterloo Schedule Exporter
 
-* A Google Chrome extension converting the class schedule into an iCalendar format, importable into Microsoft Outlook and/or Google Calendar.
-* This is mainly for personal use, so please do not contact me about any issues. Also, there are better ones out there.
+Completed (at least until the next time Quest or iCal updates).
+
+This is a Google Chrome extension that converts the class schedule on Quest into an iCalendar file, which can then be imported into Google Calendar and/or Microsoft Outlook. Originally developed by Baraa Hamodi, I took over as he has graduated and no longer has access to Quest.
+
+[GitHub](https://github.com/Xierumeng/uwaterloo-schedule-exporter). [My published version (v1.8)](https://chrome.google.com/webstore/detail/uwaterloo-schedule-export/kfdoehlfchipdmgngnabhaaggdmodgdk/). [Original published version (v1.6)](https://chrome.google.com/webstore/detail/uwaterloo-schedule-export/epamhdpboimbcdgokgldffcdkfmbmajg).
+
+## Space Combat Simulator
+
+On hold.
+
+This is a spaceship combat simulator on Windows, similar to KSP and Children of a Dead Earth, based on mid-future speculative technologies. Superconductors, nuclear fusion, and 3D printing are assumed to have matured and are common throughout this universe. Research is being done to make it as realistic as I can make it.
+
+## Personal website
+
+This is a place to link it all together (and somewhere to store my comics).
+
+[Website]({{ site.url }}). [GitHub](https://github.com/Xierumeng/Xierumeng.github.io).
+
+## Repository of Knowledge
+
+This is a Google Drive storage of information resources for engineering students.
