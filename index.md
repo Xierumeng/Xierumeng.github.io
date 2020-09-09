@@ -30,6 +30,6 @@ Note: The navigation bar is broken on mobile. I will get to this when I have the
 
 ## Quick Access
 
-* [Xierumeng's Guide to R&eacute;sum&eacute; Creation]({{ site.url }}/resources/resume-guide}}).
+* [Xierumeng's Guide to R&eacute;sum&eacute; Creation]({{ site.url }}/resources/resume-guide).
 
 ![](/images/Tarrasque Adventurers.jpg){:class="img-responsive"}
