@@ -46,6 +46,8 @@ Employers will spend between 15 and 60 seconds looking at your r&eacute;sum&eacu
 
 * Colour - Some colour adds personality to your r&eacute;sum&eacute;. However, make sure that it will appear alright if converted to greyscale (most likely through a printer). Also make sure colouring is consistent. I'm not a fan of multiple colours on a single line.
 
+* Bolding - Personally I don't like bolding in the points, as I find it distracting. If you are bolding, less is more. Maybe only bold important keywords such as languages and technologies used.
+
 # Header
 
 * Some r&eacute;sum&eacute;s have light text on dark background. I find it distracting as it makes the r&eacute;sum&eacute; feel "top-heavy". Also RIP ink usage if it's printed.
