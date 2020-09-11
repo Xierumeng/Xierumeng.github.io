@@ -6,7 +6,7 @@ note:   This is for making r&eacute;sum&eacute;s geared towards software develop
 categories: guide
 permalink: /resources/resume-guide
 ---
-With thanks to Gibstick and Mewtwo (UW alumni), Kris Sousa (UW ECE 2021), as well as my Patrons.
+With thanks to Gibstick and [Anonymous] (UW alumni), Kris Sousa (UW ECE 2021), as well as my Patrons.
 
 When I give r&eacute;sum&eacute; feedback I essentially re-iterate the following content. Also, remember that this is a guide, and everything I write here is only a suggestion. Your r&eacute;sum&eacute; is your r&eacute;sum&eacute; and you are free to accept or reject any suggestions/feedback.
 
@@ -76,7 +76,7 @@ Employers will spend between 15 and 60 seconds looking at your r&eacute;sum&eacu
 
 * Types - I recommend four sections. More detail in each one below.
 
-    * Skills - Rather than "Summary of Qualifications". This should be at the top. Mewtwo writes to move this to the bottom "once u actually have experience".
+    * Skills - Rather than "Summary of Qualifications". This should be at the top. [Anonymous] writes to move this to the bottom once you have experience.
 
     * Projects - Depending on your side projects vs work experience, either Projects or Experience should be before the other.
 
@@ -93,7 +93,8 @@ This section should be a very brief summary of your familiarity with different t
 * Languages - Programming languages you are familiar with.
 
 * Tools - This could be "technologies" or "libraries" or "frameworks"; essentially all the tools you are familiar with (e.g. "Git").
-If you're applying for jobs in the government or in a foreign country then it may be useful to list the relevant human languages you know (e.g. "French"). Mewtwo doesn't think it will be though. 
+
+If you're applying for jobs in the government or in a foreign country then it may be useful to list the relevant human languages you know (e.g. "French"). Won't be useful most of the time.
 
 ## Experience
 
