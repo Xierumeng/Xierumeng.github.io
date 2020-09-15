@@ -162,6 +162,8 @@ Points are the details that the employer will look at after the initial screenin
 
 * Length - Points should be able to fit on a single line. Very rarely would a point occupy two lines. Five is right out.
 
+Often I see people leaving the "why" part out of their points. Employers not only want to see what you did and how, but also the reasoning behind the action or the impact/results that occurred because of the action. Otherwise it just seems like you were just told to do something and then went and did it.
+
 ## Example 1
 
 *Implemented a matrix solver with the [math] library to generate a correction from identified pixels in images*
@@ -201,6 +203,8 @@ Points are the details that the employer will look at after the initial screenin
 * Length - Fits on one line in my r&eacute;sum&eacute;.
 
 Possible improvement: *Validated regex scrubbing of personally identifiable information by writing [#] unit tests in log collection bash scripts*
+
+Possible improvement: *Validated regex scrubbing in log collection by writing [#] unit tests in order to comply with data protection laws*
 
 ## Example 3
 
