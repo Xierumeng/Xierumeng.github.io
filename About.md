@@ -51,4 +51,4 @@ I do not have access to individualized data, and I do not set cookies.
 
 ## Design
 
-This website was made using [the Bootstrap framework](http://getbootstrap.com/) and [Jekyll](https://jekyllrb.com/), a static site generator. You can download the template comic website code [here](https://github.com/peahatlanding/Webcomic-Jekyll-Theme).
+This website was made using [the Bootstrap framework](http://getbootstrap.com/) and [Jekyll](https://jekyllrb.com/), a static site generator. You can download the template website code [here](https://github.com/peahatlanding/Webcomic-Jekyll-Theme).
