@@ -56,7 +56,7 @@ Employers will spend between 15 and 60 seconds looking at your r&eacute;sum&eacu
 
 * Year and program - Possibly redundant information. If you're applying through Waterlooworksn't, then the application package will have your year and program. If not, then your Education section will be first (as stated below). Kris Sousa thinks it's worthwhile. Up to you.
 
-* Contact and information - Icons can be used as separators and they look nicer than e.g. "Email:". Make sure to hyperlink, but for the displayed text you can drop the protocol ("https://") and "www" e.g. [linkedin.com/](https://www.linkedin.com/).
+* Contact and information - Icons can be used as separators and they look nicer than e.g. "Email:". Make sure to hyperlink, but for the displayed text you can drop the protocol ("https://" and "www") (e.g. [linkedin.com/](https://www.linkedin.com/)).
 
     * Email - This should be your UW email, and should be "first.last@uwaterloo.ca" or something similar. You can set this in WatIAM.
 
@@ -106,7 +106,7 @@ This section contains any relevant work and volunteer experience. If you have no
 
 * Dates - Include the start and end date ("present" if it is ongoing when you submit your r&eacute;sum&eacute;). I put the dates on the right margin. The format I use is "Abbreviated month year - Abbreviated month year" e.g. "Jan. 2005 - Dec. 2008".
 
-    * There are multiple ways of abbreviating the months: Jun. vs June, Jul. vs July, Sep. vs Sept. Just keep it consistent throughout e.g. if September is abbreviated to "Sept." then abbreviate all instances in the same manner.
+    * There are multiple ways of abbreviating the months: Jun. vs June, Jul. vs July, Sep. vs Sept. Just keep it consistent throughout (e.g. if September is abbreviated to "Sept." then abbreviate all instances in the same manner).
 
 * Points - There should be two to five points in each sub-section. More detail about points below.
 
@@ -187,7 +187,7 @@ Often I see people leaving the "why" part out of their points. Employers not onl
 
 *Wrote [#] unit tests in log collection bash scripts to validate regex scrubbing of personally identifiable information*
 
-* Action verb - "Wrote". Personally I think it's a bit weak.
+* Action verb - "Wrote". Personally I think it's a bit weak. A better one would be "Created".
 * What-How-Why.
     * What - "Wrote [#] unit tests in log collection bash scripts".
     * How - "bash scripts".
