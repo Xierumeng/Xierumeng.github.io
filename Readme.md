@@ -8,6 +8,6 @@ s1, s2 generated from [here](https://www.random.org/strings/?num=2&len=16&digits
 
 Workaround for next/previous post category: https://stackoverflow.com/questions/28331879/jekyll-next-and-previous-links-with-different-categories
 
-Workaround exists due to plugin disabling.
+Workaround exists due to plugin disabling on GitHub pages.
 
 Run "jekyll serve" in site root folder to host website locally.
