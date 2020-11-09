@@ -21,7 +21,7 @@ P.S. Check out my [Patreon]({{ site.author_patreon_username }})!
 
 * [PROJECTS]({{ site.url }}/projects) - Links and descriptions of my various projects.
 * [FIRST COMIC]({{ site.url }}/comics/001) - First page of my comics.
-* [LAST COMIC]({{ site.url }}/comics/012) - Last page of my comics.
+* [LAST COMIC]({{ site.url }}/comics/013) - Last page of my comics.
 * [ARCHIVE]({{ site.url }}/archive) - A list of all of my comics.
 * [BLOG]({{ site.url }}/blog) - A list of blog posts to my guide to UW and other resources.
 * [ABOUT]({{ site.url }}/about) - Some information about myself and this website.
