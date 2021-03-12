@@ -29,7 +29,7 @@ Please ask me for permission before copying anything on this website. Please als
 
 ## Current Patrons
 
-* Ali Naqvi
+None :(.
 
 # Website
 
