@@ -6,7 +6,7 @@ note:   This is for making r&eacute;sum&eacute;s geared towards software develop
 categories: guide
 permalink: /resources/resume-guide
 ---
-With thanks to Gibstick and [Anonymous] (UW alumni), Kris Sousa (UW ECE 2021), as well as my Patrons.
+With thanks to Gibstick (UW alumnus, CS 2019), [Anonymous0] (UW alumnus, CS), Kristopher Sousa (UW alumnus, ECE 2021), and my Patrons.
 
 When I give r&eacute;sum&eacute; feedback I essentially re-iterate the following content. Also, remember that this is a guide, and everything I write here is only a suggestion. Your r&eacute;sum&eacute; is your r&eacute;sum&eacute; and you are free to accept or reject any suggestions/feedback.
 
@@ -46,7 +46,7 @@ Employers will spend between 15 and 60 seconds looking at your r&eacute;sum&eacu
 
 * Colour - Some colour adds personality to your r&eacute;sum&eacute;. However, make sure that it will appear alright if converted to greyscale (most likely through a printer). Also make sure colouring is consistent. I'm not a fan of multiple colours on a single line.
 
-* Bolding - Personally I don't like bolding in the points, as I find it distracting. If you are bolding, less is more. Maybe only bold important keywords such as languages and technologies used.
+* Bolding - Personally I don't like bolding in the points, as I find it distracting. If you are bolding, less is more. If you choose to bold, only bold important keywords such as languages and technologies used.
 
 # Header
 
@@ -54,13 +54,13 @@ Employers will spend between 15 and 60 seconds looking at your r&eacute;sum&eacu
 
 * Name - The name should be big and centred (maybe even bolded).
 
-* Year and program - Possibly redundant information. If you're applying through Waterlooworksn't, then the application package will have your year and program. If not, then your Education section will be first (as stated below). Kris Sousa thinks it's worthwhile. Up to you.
+* Year and program - Possibly redundant information. Kristopher thinks it's worth keeping if you're applying through WaterlooWorksn't, as the application package will have your year and program. Otherwise, your Education section will be first (as stated below). Up to you.
 
-* Contact and information - Icons can be used as separators and they look nicer than e.g. "Email:". Make sure to hyperlink, but for the displayed text you can drop the protocol ("https://" and "www") (e.g. [linkedin.com/](https://www.linkedin.com/)).
+* Contact and information - Icons can be used as separators and they look nicer than (e.g. "Email:"). Make sure to hyperlink, but for the displayed text you can drop the protocol ("https://" and "www") (e.g. [linkedin.com/](https://www.linkedin.com/) links to https://www.linkedin.com/).
 
-    * Email - This should be your UW email, and should be "first.last@uwaterloo.ca" or something similar. You can set this in WatIAM.
+    * Email - This should be your UW email, and should be "first.last@uwaterloo.ca" or something similar. You can set this in WatIAM. Link it with mailto:.
 
-    * Phone - Self-explanatory but not necessary. No hurt in including or excluding it.
+    * Phone - Self-explanatory but not necessary. No hurt in including or excluding it. Can be hyperlinked with tel:.
 
     * GitHub - GitHub or another code hosting website is a great way of showcasing your projects.
 
@@ -76,13 +76,13 @@ Employers will spend between 15 and 60 seconds looking at your r&eacute;sum&eacu
 
 * Types - I recommend four sections. More detail in each one below.
 
-    * Skills - Rather than "Summary of Qualifications". This should be at the top. [Anonymous] writes to move this to the bottom once you have experience.
+    * Skills - Rather than "Summary of Qualifications". This should be at the top. [Anonymous0] writes to move this to the bottom once you have experience.
 
     * Projects - Depending on your side projects vs work experience, either Projects or Experience should be before the other.
 
     * Experience - Rather than "Relevant Experience".
 
-    * Education - If you're applying through Waterlooworksn't, this goes last. Otherwise first.
+    * Education - If you're applying through WaterlooWorksn't, this goes last. Otherwise first.
 
     * Awards/Achievements - If you've won any large awards (e.g. Loran) then it may be worthwhile to include them.
 
@@ -104,7 +104,9 @@ This section contains any relevant work and volunteer experience. If you have no
 
 * Sub-titles - Name of company, position title, languages/tools used, location (optional). This can be two lines.
 
-* Dates - Include the start and end date ("present" if it is ongoing when you submit your r&eacute;sum&eacute;). I put the dates on the right margin. The format I use is "Abbreviated month year - Abbreviated month year" e.g. "Jan. 2005 - Dec. 2008".
+    * Position title does not necessarily need to match what the company gave you. You can use them to show what you did (e.g. "Android Developer" over "Software Developer"). Do note that using "Engineer" is illegal; replace it with "Engineering".
+
+* Dates - Include the start and end date ("present" if it is ongoing when you submit your r&eacute;sum&eacute;). I put the dates on the right margin. The format I use is "Abbreviated month year - Abbreviated month year" (e.g. "Jan. 2005 - Dec. 2008").
 
     * There are multiple ways of abbreviating the months: Jun. vs June, Jul. vs July, Sep. vs Sept. Just keep it consistent throughout (e.g. if September is abbreviated to "Sept." then abbreviate all instances in the same manner).
 
@@ -114,7 +116,7 @@ This section contains any relevant work and volunteer experience. If you have no
 
 This section contains any side projects you've worked on in your free time. Make sure to include projects that have enough complexity to be interesting; they should be doing something.
 
-Small high school/university assignments aren't usually worth putting on your r&eacute;sum&eacute; unless you've extended them since submission or you have no other technical experience (something is better than nothing). Also be careful putting assignment code online, as the university may invoke policy 71 (academic integrity) on you.
+Small high school/university assignments aren't usually worth putting on your r&eacute;sum&eacute; unless you've extended them since submission or you have no other technical experience (something is better than nothing). Also be careful putting assignment code online, as the university may invoke policy 71 (academic integrity) on you. You do not want to be hit with the policy 71 hammer.
 
 ### Sub-sections
 
@@ -130,7 +132,7 @@ This section contains your education. Don't bother including high school.
 
 * Name of school - "University of Waterloo".
 
-* Degree and program - If you don't currently have a degree, you are not supposed to write it. However, you are working towards a degree, so prefixing with "Candidate for" is fine.
+* Degree and program - If you don't currently have a degree, you are not supposed to write it. However, you are working towards a degree, so prefixing with "Candidate for" is fine (e.g. "Candidate for B.A. in Meme Engineering").
 
 * Dates - Include the start and end date. If you are still in the program, add "expected" to the end date which should still be in the future.
 
