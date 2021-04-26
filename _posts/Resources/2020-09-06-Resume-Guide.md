@@ -88,7 +88,7 @@ Employers will spend between 15 and 60 seconds looking at your r&eacute;sum&eacu
 
 ## Skills
 
-This section should be a very brief summary of your familiarity with different tools, and basically is consisted of keywords.
+This section should be a very brief summary of your familiarity with different tools, and basically is consisted of keywords. Do not bother putting soft skills, as employers already expect you to have them and they should be implicit in your points (e.g. no "good at time management, hardworking, fast learner, team player").
 
 * Languages - Programming languages you are familiar with.
 
@@ -116,7 +116,9 @@ This section contains any relevant work and volunteer experience. If you have no
 
 This section contains any side projects you've worked on in your free time. Make sure to include projects that have enough complexity to be interesting; they should be doing something.
 
-Small high school/university assignments aren't usually worth putting on your r&eacute;sum&eacute; unless you've extended them since submission or you have no other technical experience (something is better than nothing). Also be careful putting assignment code online, as the university may invoke policy 71 (academic integrity) on you. You do not want to be hit with the policy 71 hammer.
+Small high school/university assignments aren't usually worth putting on your r&eacute;sum&eacute; unless you've extended them since submission or you have no other technical experience (something is better than nothing). Also be careful putting university assignment code online, as policy 71 (academic integrity) may be invoked on you. You do not want to be hit with the policy 71 hammer.
+
+This is mainly because assignment questions tend to be re-used with little change, but I've also seen the argument that the professor also has a claim to the intellectual property as it is them who wrote the assignment question and marked the submitted code (i.e. your assignment code wouldn't have existed without the assignment).
 
 ### Sub-sections
 
@@ -142,7 +144,11 @@ This section contains your education. Don't bother including high school.
 
 # Points
 
-Points are the details that the employer will look at after the initial screening. Points should be concise and direct.
+Points are the details that the employer will look at after the initial screening. Points should be concise and direct and should cover one item. If your point can be split into two points, you should use two points instead of cramming it into one.
+
+Points should not have brackets/parantheses, nor semi-colons, nor common initialisms such as "e.g." or "etc." as it breaks the flow.
+
+"etc." is probably one of the worst things to use as it hides information, creates vagueness, raises red flags, etc.
 
 * Action verb - Every point must begin with an action verb. Examples of good action verbs include "developed", "designed", "applied", "modelled", "enhanced", "improved", "documented", "implemented". Use strong action verbs over weaker ones (e.g. not "used", "demonstrated").
 
@@ -217,6 +223,18 @@ The action verb is weak, and by explicitly stating the skill, the more interesti
 *Developed a physics engine using semi-implicit Euler integration math and quaternions for rotation to simulate ship movement*
 
 The action verb is better and the skill demonstrated has been improved (not only knowledge of, but how to implement a physics engine). Plus it's more concise.
+
+## Example 4
+
+*Developed a physics engine and resource manager to simulate ship movement, internal systems*
+
+This is an example where this point should have been broken into twain: Physics engine for ship movement, resource manager for internal systems.
+
+## Example 5
+
+*Queried and updated the message status of events with SQLite to find incomplete events on agent start-up*
+
+Too specific, what is a message status of an event? What does SQLite have to do with it? Events can be incomplete (why?)? What does agent start-up have to do with events? What is this agent, what does it do?
 
 # External Resources
 
