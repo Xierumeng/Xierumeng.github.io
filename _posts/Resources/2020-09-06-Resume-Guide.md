@@ -118,7 +118,8 @@ This section contains any side projects you've worked on in your free time. Make
 
 Small high school/university assignments aren't usually worth putting on your r&eacute;sum&eacute; unless you've extended them since submission or you have no other technical experience (something is better than nothing). Also be careful putting university assignment code online, as policy 71 (academic integrity) may be invoked on you. You do not want to be hit with the policy 71 hammer.
 
-This is mainly because assignment questions tend to be re-used with little change, but I've also seen the argument that the professor also has a claim to the intellectual property as it is them who wrote the assignment question and marked the submitted code (i.e. your assignment code wouldn't have existed without the assignment).
+This is mainly because assignment questions tend to be re-used with little change, but I've also seen the [argument](https://uwaterloo.ca/math/code-sharing-policy) that the professor also has a claim to the intellectual property as it is them who wrote the assignment question and marked the submitted code (i.e. your assignment code wouldn't have existed without the assignment).
+
 
 ### Sub-sections
 
