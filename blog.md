@@ -68,3 +68,10 @@ Miscellaneous information and guides.
     </li>
   {% endfor %}
 </ul>
+
+Future stuff:
+
+* Xierumeng's Guide to Academics?
+* Xierumeng's Guide to C++ setup?
+* Xierumeng's Guide to Command-Line Compiling C++?
+* Xierumeng's Guide to Concurrency?
