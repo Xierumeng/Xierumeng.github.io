@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 date:   2020-09-06
 title:  Xierumeng's Guide to R&eacute;sum&eacute; Creation
 note:   This is for making r&eacute;sum&eacute;s geared towards software development postings (and similar jobs).

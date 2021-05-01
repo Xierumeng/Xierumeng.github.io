@@ -1,0 +1,12 @@
+---
+layout: post
+---
+<a href="#toc-skipped" class="screen-reader-only">Skip table of contents</a>
+<br>
+<br>
+
+{% include toc.html html=content %}
+<div id="toc-skipped"></div>
+<br>
+
+{% include anchor_headings.html html=content anchorBody="#" beforeHeading=true %}
