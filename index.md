@@ -29,5 +29,6 @@ P.S. Check out my [Patreon]({{ site.author_patreon_username }})!
 ## Quick Access
 
 * [Xierumeng's Guide to R&eacute;sum&eacute; Creation]({{ site.url }}/resources/resume-guide).
+* [UW Computer Engineering vs UW Computer Science]({{ site.url}}/blog/1-F#computer-engineering-at-uw-vs-other-programs).
 
 ![](/images/Tarrasque Adventurers.jpg){:class="img-responsive"}
