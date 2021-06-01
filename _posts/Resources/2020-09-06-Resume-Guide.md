@@ -6,7 +6,7 @@ note:   This is for making r&eacute;sum&eacute;s geared towards software develop
 categories: guide
 permalink: /resources/resume-guide
 ---
-With thanks to Gibstick (UW alumnus, CS 2019), [Anonymous0] (UW alumnus, CS), Kristopher Sousa (UW alumnus, ECE 2021), and my Patrons.
+With thanks to Gibstick (UW alumnus, CS 2019), [Anonymous0] (UW alumnus, CE), Kristopher Sousa (UW alumnus, CE 2021), and my Patrons.
 
 When I give r&eacute;sum&eacute; feedback I essentially re-iterate the following content. Also, remember that this is a guide, and everything I write here is only a suggestion. Your r&eacute;sum&eacute; is your r&eacute;sum&eacute; and you are free to accept or reject any suggestions/feedback.
 
