@@ -31,6 +31,7 @@ First year advice.
       {{ post.date | date: "%Y-%m-%d" }} <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </li>
   {% endfor %}
+  <br>
 </ul>
 
 ### Acceptance Series:
@@ -43,6 +44,7 @@ After accepting and meeting the conditional offer.
       {{ post.date | date: "%Y-%m-%d" }} <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </li>
   {% endfor %}
+  <br>
 </ul>
 
 ### Admissions Series:
@@ -55,6 +57,7 @@ Application and admissions process.
       {{ post.date | date: "%Y-%m-%d" }} <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </li>
   {% endfor %}
+  <br>
 </ul>
 
 ## Resources
@@ -67,9 +70,10 @@ Miscellaneous information and guides.
       {{ post.date | date: "%Y-%m-%d" }} <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </li>
   {% endfor %}
+  <br>
 </ul>
 
-Future stuff:
+## Future stuff
 
 * Xierumeng's Guide to Academics?
 * Xierumeng's Guide to C++ setup?
