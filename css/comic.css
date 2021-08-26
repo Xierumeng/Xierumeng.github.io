@@ -7,7 +7,7 @@ body {
   font-size: 15px;
   color: #424142;
   padding-top: 20px;
-  /* background-image: url({{ site.url }}/images/grid.png);*/
+  /*background-image: url({{ site.url }}/images/grid.png);*/
   background-color: gray;
 }
 
@@ -48,6 +48,7 @@ body {
 }
 
 .center {
+  padding: 15px 0px 0px 0px;
   margin: auto;
   float: none;
 }
@@ -58,13 +59,13 @@ body {
 /*=============================*/
 
 .jumbotron {
-  /* background-image: url({{ site.url }}/images/header-bg.jpg);*/
+  /*background-image: url({{ site.url }}/images/header-bg.jpg);*/
   font-family: 'Fredoka One', cursive;
 }
 
 .container .jumbotron {
   padding: 0px 0px 0px 0px;
-  text-align: center; //left, right, or center
+  text-align: center; /* left, right, or center */
 }
 
 .jumbotron img {
@@ -127,7 +128,7 @@ body {
 .navbar .navbar-nav {
   font-family: 'Arvo', serif;
   margin-left: auto;
-  display: inline-block;
+  /*display: inline-block;*/
   float: none;
   vertical-align: top;
 }
