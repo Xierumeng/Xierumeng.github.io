@@ -5,6 +5,7 @@ layout: default
 <div class="comic-panel center">
     <a name="top-page"></a>
     <h2>{{ page.title }}</h2>
+    <p>{{ page.date | date: "%Y-%m-%d" }}</p>
     <p>Note: {{ page.note }}</p>
     <br>
     {{ content }}
