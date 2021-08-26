@@ -13,7 +13,7 @@
     <title>{{ site.tab_title }}</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for webcomic -->
     <link rel="stylesheet" href={{ site.url }}/css/comic.css>
@@ -22,7 +22,7 @@
     <link href="https://fonts.googleapis.com/css?family=Arvo|Fredoka+One|Roboto" rel="stylesheet">
 
     <!-- Font Awesome-->
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
   </head>
 
@@ -30,14 +30,14 @@
     <div class="container">
       <div class="row">
 
-        <div class="jumbotron">
+        <div class="col-md-12 jumbotron">
           <a href={{ site.url }}/><h2>{{ site.title }}</h2></a>
           <p>{{ site.description }}</p>
         </div>
 
-        <div class="col-md-12 center">
+        <div class="col-md-11 center">
           {% include navigation.html %}
-          <div class="panel center col-md-12">
+          <div class="panel center">
                   {{ content }}
           <br>
           </div><!-- end panel-->
@@ -45,14 +45,14 @@
             <br>
             <p>{{ site.copyright }}</p>
           </div>
-        </div><!--end col-md-9 center-->
+        </div><!--end col-md-12 center-->
       </div><!--end row-->
     </div><!-- end container-->
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" crossorigin="anonymous"></script>
   </body>
 </html>
 
