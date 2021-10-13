@@ -18,7 +18,7 @@ These are the basics.
 > <footer class="blockquote-footer">Xierumeng original</footer>
 {: class="blockquote" cite="https://xierumeng.github.io/resources/resume-guide"}
 
-Employers will spend between 15 and 60 seconds looking at your r&eacute;sum&eacute;, looking at possibly hundreds of them over several days. Therefore, it is critical to convey your eligibility in this extremely short period by having a well-organized r&eacute;sum&eacute;.
+Employers will spend between 10 and 60 seconds looking at your r&eacute;sum&eacute;, looking at possibly hundreds of them over several days. Therefore, it is critical to convey your eligibility in this extremely short period by having a well-organized r&eacute;sum&eacute;.
 
 * Length - The length of your r&eacute;sum&eacute; should be at most one page. If you find yourself running out of space, you should remove content or re-arrange formatting and layout.
 
