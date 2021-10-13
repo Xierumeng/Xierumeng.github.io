@@ -7,7 +7,7 @@ permalink: /index.html
 
 This is my personal website, a hub to all of my other projects and a place to host my comics and blog. My formal website is elsewhere.
 
-I apologize in advance for the broken navigation bar on mobile. Please use the navigation links below. The header leads back here to the front page. I will fix this when I have the time. Also, I apologize if images are acting up; I also don't really know how to scale them nicely. If there are any other issues,, feel free to open an issue on [GitHub](https://github.com/Xierumeng/Xierumeng.github.io).
+Navigation bar is fixed, but just in case there are links below and the header leads back here to the front page. Also, I apologize if images are acting up; I also don't really know how to scale them nicely. If there are any other issues, feel free to open an issue on [GitHub](https://github.com/Xierumeng/Xierumeng.github.io).
 
 I hope you enjoy my content!
 
