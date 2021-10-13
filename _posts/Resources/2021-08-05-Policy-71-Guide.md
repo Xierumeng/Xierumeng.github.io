@@ -102,7 +102,7 @@ Basically, the computer equipment and software owned by the university is for ed
 
 **Mining cryptocurrency: Really bad.**
 
-* A CS student apparently did this and then got banned from all of the computers on campus forever (a long time!). Given that those computers are required to test and submit code assignments...
+* A CS student apparently did this and then got banned from all of the computers on campus forever (a long time!). Given that those computers are required to test and submit code assignments, this is not ideal.
 
 **Accidents such as program exploding out of control: Possibly okay.**
 
@@ -114,7 +114,8 @@ Basically, the computer equipment and software owned by the university is for ed
 
 **Deliberate sabotage: Really bad.**
 
-* Probably ban. Maybe even legal action.
+* Probably ban. Suspension/expulsion possible. Maybe even legal action.
+* This would fall under a non-academic policy 71 offence.
 
 **Reimbursement of funds for a student design team: Okay.**
 
