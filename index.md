@@ -19,16 +19,18 @@ P.S. Check out my [Patreon]({{ site.author_patreon_username }})!
 
 ## Navigation
 
-* [PROJECTS]({{ site.url }}/projects) - Links and descriptions of my various projects.
-* [FIRST COMIC]({{ site.url }}/comics/001) - First page of my comics.
-* [LAST COMIC]({{ site.url }}/comics/021) - Last page of my comics.
-* [ARCHIVE]({{ site.url }}/archive) - A list of all of my comics.
-* [BLOG]({{ site.url }}/blog) - A list of blog posts to my guide to UW and other resources.
-* [ABOUT]({{ site.url }}/about) - Some information about myself and this website.
+* [PROJECTS](/projects) - Links and descriptions of my various projects.
+* [FIRST COMIC](/comics/001) - First page of my comics.
+* [LAST COMIC](/comics/021) - Last page of my comics.
+* [ARCHIVE](/archive) - A list of all of my comics.
+* [BLOG](/blog) - A list of blog posts to my guide to UW and other resources.
+* [ABOUT](/about) - Some information about myself and this website.
 
-## Quick Access
+## Author Recommendations
 
-* [Xierumeng's Guide to R&eacute;sum&eacute; Creation]({{ site.url }}/resources/resume-guide).
-* [UW Computer Engineering vs UW Computer Science]({{ site.url}}/blog/1-F#computer-engineering-at-uw-vs-other-programs).
+* [UW Computer Engineering vs UW Computer Science](/blog/1-F#computer-engineering-at-uw-vs-other-programs)
+* [3-1. Onboarding Guide](/blog/3-1)
+* [3-3. Co-op](/blog/3-3)
+* [Xierumeng's Guide to R&eacute;sum&eacute; Creation](/resources/resume-guide)
 
 ![](/images/Tarrasque Adventurers.jpg){:class="img-responsive"}

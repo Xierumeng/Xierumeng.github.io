@@ -13,6 +13,13 @@ As I am a computer engineering student, any information I have will focus on my 
 
 ***Disclaimer: Use this information at your own risk. Always check with official sources and with people who are more qualified than I am. I will not be held liable for anything that goes wrong from this website.***
 
+### Author Recommendations
+
+* [UW Computer Engineering vs UW Computer Science](/blog/1-F#computer-engineering-at-uw-vs-other-programs)
+* [3-1. Onboarding Guide](/blog/3-1)
+* [3-3. Co-op](/blog/3-3)
+* [Xierumeng's Guide to R&eacute;sum&eacute; Creation](/resources/resume-guide)
+
 ### Graduation Series:
 
 Coming soon! Topics will include fourth year, TEs, full-time offers (and negotiation), Iron Ring ceremony, convocation.

@@ -15,8 +15,8 @@ When I give r&eacute;sum&eacute; feedback I essentially re-iterate the following
 These are the basics.
 
 > An office. On a desk, a stack of r&eacute;sum&eacute;s from hopeful applicants. The employer sitting behind said desk starts its work on screening potential interview candidates by picking up half the stack and tossing it into the recycling bin. "I don't hire unlucky people," it states, before looking over the first survivor.
-> <footer class="blockquote-footer">Xierumeng original</footer>
-{: class="blockquote" cite="https://xierumeng.github.io/resources/resume-guide"}
+> <footer class="blockquote-footer">Xierumeng joke</footer>
+{: class="blockquote" cite=""}
 
 Employers will spend between 10 and 60 seconds looking at your r&eacute;sum&eacute;, looking at possibly hundreds of them over several days. Therefore, it is critical to convey your eligibility in this extremely short period by having a well-organized r&eacute;sum&eacute;.
 
