@@ -15,7 +15,7 @@ As I am a computer engineering student, any information I have will focus on my 
 
 ### Author Recommendations
 
-* [UW Computer Engineering vs UW Computer Science](/blog/1-F#computer-engineering-at-uw-vs-other-programs)
+* [Is UW the right choice? (and UW CE vs UW CS)](/blog/1-F)
 * [3-1. Onboarding Guide](/blog/3-1)
 * [3-3. Co-op](/blog/3-3)
 * [Xierumeng's Guide to R&eacute;sum&eacute; Creation](/resources/resume-guide)
