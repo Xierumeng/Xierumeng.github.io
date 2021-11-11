@@ -16,6 +16,15 @@ layout: post
     {% endif %}
 {% endfor %}
 
+<ul class="pager">
+    {% if prev_post %}
+    <li><a class="btn btn-outline-secondary" href={{ prev_post }} #top-page>PREVIOUS</a></li>
+    {% endif %}
+    {% if next_post %}
+    <li><a class="btn btn-outline-primary" href={{ next_post }} #top-page>NEXT</a></li>
+    {% endif %}
+</ul>
+
 <a href={{ next_post }} #top-page>{{ content }}</a>
 
 <ul class="pager">
