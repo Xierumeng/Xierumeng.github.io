@@ -26,7 +26,18 @@ Coming soon! Topics will include fourth year, TEs, full-time offers (and negotia
 
 ### Upper Year Series:
 
-Coming soon! Topics will include second year, third year, CSEs, NSEs, US co-ops (if I can get any :')), extracurriculars I found enjoyable.
+Coming soon (TODO): CSEs, NSEs, US co-ops (NVIDIA REMOTE WOOT), extracurriculars I found enjoyable.
+
+<ul class="post-list archive-ul">
+  {% for post in site.categories.blogUWUpper %}
+    <li class="archive-li">
+      {{ post.date | date: "%Y-%m-%d" }} <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+  <br>
+</ul>
+
+TODO: Dates will be fixed when I add more detail to my satisfaction.
 
 ### Onboarding Series:
 
