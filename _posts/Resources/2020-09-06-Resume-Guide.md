@@ -122,6 +122,7 @@ Small high school/university assignments aren't usually worth putting on your r&
 
 This is mainly because assignment questions tend to be re-used with little change, but I've also seen the [argument](https://uwaterloo.ca/math/code-sharing-policy) that the professor also has a claim to the intellectual property as it is them who wrote the assignment question and marked the submitted code (i.e. your assignment code wouldn't have existed without the assignment).
 
+Douglas Harder's (ECE 150) also has an [article](https://ece.uwaterloo.ca/~ece150/Resumes/) about sharing course code.
 
 ### Sub-sections
 
@@ -173,7 +174,7 @@ Points should not have brackets/parantheses, nor semi-colons, nor common initial
 
 * Length - Points should be able to fit on a single line. Very rarely would a point occupy two lines. Five is right out.
 
-Often I see people leaving the "why" part out of their points. Employers not only want to see what you did and how, but also the reasoning behind the action or the impact/results that occurred because of the action. Otherwise it just seems like you were just told to do something and then went and did it.
+Often I see students leaving the "why" part out of their points. Employers not only want to see what you did and how, but also the reasoning behind the action or the impact/results that occurred because of the action. Otherwise it just seems like you were just told to do something and then went and did it.
 
 ## Example 1
 
@@ -243,6 +244,8 @@ Too specific, what is a message status of an event? What does SQLite have to do 
 
 * [Good starting r&eacute;sum&eacute;](https://www.careercup.com/resume) but it could definitely be improved.
 * [Engineering Society r&eacute;sum&eacute; resources](https://www.engsoc.uwaterloo.ca/resources/resume-help/).
+* [UW Computer Science Club Resources](https://docs.google.com/document/d/1xGLrG-VBXuUpfL5MUuieKtuJyAhJoC7X9pWzg7PRfjo/edit).
+* [EngSoc R&eacute;sum&eacute; Bank](https://drive.google.com/drive/folders/1N8uq1BJFV8ik5fyas3_ip7CGS6nOMVIq).
 * Go to critique sessions hosted by the Engineering Society and the ECE Society.
 * Bug some upper years.
 
