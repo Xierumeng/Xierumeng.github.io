@@ -6,9 +6,17 @@ note:   This is for making r&eacute;sum&eacute;s geared towards software develop
 categories: guide
 permalink: /resources/resume-guide
 ---
-With thanks to Gibstick (UW alumnus, CS 2019), [Anonymous0] (UW alumnus, CE), Kristopher Sousa (UW alumnus, CE 2021), and my Patrons.
+With thanks to Gibstick (UW alumnus, CS 2019), [Anonymous0] (UW alumnus, CE), Kristopher Sousa (UW alumnus, CE 2021), PuffyPanda (CE 2024), and my Patrons.
 
-When I give r&eacute;sum&eacute; feedback I essentially re-iterate the following content. Also, remember that this is a guide, and everything I write here is only a suggestion. Your r&eacute;sum&eacute; is your r&eacute;sum&eacute; and you are free to accept or reject any suggestions/feedback.
+When I give r&eacute;sum&eacute; feedback I essentially reiterate the following content. Also, remember that this is a guide, and everything I write here is only a suggestion. **Your r&eacute;sum&eacute; is your r&eacute;sum&eacute; and you are free to accept or reject any suggestions/feedback**.
+
+# Creation
+
+There are many r&eacute;sum&eacute; templates out there that you can adapt for your own use. Typically r&eacute;sum&eacute;s are created in LaTeX or Microsoft Word and then exported to PDF format. Personally, I developed my own style using Microsoft Word 2010&copy; over several years, starting from a blank page.
+
+According to PuffyPanda, Google Docs' PDF export has weird spacing for letters and can cause issues with parsing. It may be better to export to *.docx and check before exporting there.
+
+TODO Links to templates
 
 # General
 
@@ -42,7 +50,7 @@ Employers will spend between 10 and 60 seconds looking at your r&eacute;sum&eacu
 
 ## Font
 
-* Type - I prefer sans-serif fonts because they have less clutter. You should avoid monospaced fonts or fonts that are similar to monospaced fonts.
+* Type - I prefer sans-serif fonts because they have less clutter, but both serif and sans-serif are fine. You should avoid monospaced fonts or fonts that are similar to monospaced fonts.
 
 * Size - Don't make it too small.
 
@@ -90,13 +98,15 @@ Employers will spend between 10 and 60 seconds looking at your r&eacute;sum&eacu
 
 ## Skills
 
-This section should be a very brief summary of your familiarity with different tools, and basically is consisted of keywords. Do not bother putting soft skills, as employers already expect you to have them and they should be implicit in your points (e.g. no "good at time management, hardworking, fast learner, team player").
+This section should be a very brief summary of your familiarity with different tools, and is basically consisted of keywords. Do not bother putting soft skills, as employers already expect you to have them and they should be implicit in your points (e.g. no "good at time management, hardworking, fast learner, team player").
 
 * Languages - Programming languages you are familiar with.
 
-* Tools - This could be "technologies" or "libraries" or "frameworks"; essentially all the tools you are familiar with (e.g. "Git").
+* Tools - This could be "technologies" or "libraries" or "frameworks", essentially all the tools you are familiar with (e.g. "Git").
 
 If you're applying for jobs in the government or in a foreign country then it may be useful to list the relevant human languages you know (e.g. "French"). Won't be useful most of the time.
+
+A summary of qualifications (using sentences to describe your skills and what you did) is a waste of space and words. There is no need for a table of contents for a single page.
 
 ## Experience
 
@@ -107,6 +117,8 @@ This section contains any relevant work and volunteer experience. If you have no
 * Sub-titles - Name of company, position title, languages/tools used, location (optional). This can be two lines.
 
     * Position title does not necessarily need to match what the company gave you. You can use them to show what you did (e.g. "Android Developer" over "Software Developer"). Do note that using "Engineer" is illegal; replace it with "Engineering".
+
+    * Avoid the @ symbol as it looks ugly.
 
 * Dates - Include the start and end date ("present" if it is ongoing when you submit your r&eacute;sum&eacute;). I put the dates on the right margin. The format I use is "Abbreviated month year - Abbreviated month year" (e.g. "Jan. 2005 - Dec. 2008").
 
