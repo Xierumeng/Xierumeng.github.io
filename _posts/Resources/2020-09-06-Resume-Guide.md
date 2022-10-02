@@ -160,13 +160,13 @@ This section contains your education. Don't bother including high school.
 
 # Points
 
-Points are the details that the employer will look at after the initial screening. Points should be concise and direct and should cover one item. If your point can be split into two points, you should use two points instead of cramming it into one.
+Points are the details that the employer will look at after the initial screening. Points should be concise and direct and should cover one item. If your point can be split into two points, you should use two points instead of cramming it into one. Yihong (CE 2023) has a [guide](https://simple-script-8f5.notion.site/Resume-Guide-debb3905247f489b86034ed7481827f0) on how to word your points to convey information.
 
 Points should not have brackets/parantheses, nor semi-colons, nor common initialisms such as "e.g." or "etc." as it breaks the flow.
 
 "etc." is probably one of the worst things to use as it hides information, creates vagueness, raises red flags, etc.
 
-* Action verb - Every point must begin with an action verb. Examples of good action verbs include "developed", "designed", "applied", "modelled", "enhanced", "improved", "documented", "implemented". Use strong action verbs over weaker ones (e.g. not "used", "demonstrated").
+* Action verb - Every point must begin with an action verb. Examples of good action verbs include "developed", "designed", "applied", "modelled", "enhanced", "improved", "documented", "implemented". Use strong action verbs over weaker ones (e.g. not "used", "demonstrated", "leveraged", "built").
 
 * What-How-Why/What-Why-How - Every point should have this model. Sometimes the How can be deferred to another point below.
 
