@@ -6,17 +6,47 @@ note:   This is for making r&eacute;sum&eacute;s geared towards software develop
 categories: guide
 permalink: /resources/resume-guide
 ---
-With thanks to Gibstick (UW alumnus, CS 2019), [Anonymous0] (UW alumnus, CE), Kristopher Sousa (UW alumnus, CE 2021), PuffyPanda (CE 2024), and my Patrons.
+With thanks to Gibstick (UW CS 2019), [Anonymous0] (UW CE alumnus), Kristopher Sousa (UW CE 2021), PuffyPanda (UW CE 2024), Sage Hall (UW MGTE 2024), and my Patrons.
 
-When I give r&eacute;sum&eacute; feedback I essentially reiterate the following content. Also, remember that this is a guide, and everything I write here is only a suggestion. **Your r&eacute;sum&eacute; is your r&eacute;sum&eacute; and you are free to accept or reject any suggestions/feedback**.
+When I give r&eacute;sum&eacute; feedback I essentially reiterate the content here. Also, remember that this is a guide, and everything I write here is only a suggestion.
+
+# Conflicting Advice
+
+As with all research and advice, it is important to have multiple sources, and those sources may conflict. Paraphrased from Sage Hall: Everyone giving advice on your r&eacute;sum&eacute; is doing so with the intention of giving you a better chance of being employed. Of course, the source of the advice is also important to consider:
+
+* Classmates
+
+* Upper year or alumni (and whether they are in the same field as you)
+
+* Employer:
+    * In the same field?
+    * Hired co-ops before?
+
+* Professor:
+    * Research experience?
+    * Industry experience?
+    * The above in the same field?
+    * Hired students before?
+
+* Other: CECA, family, etc.
+
+And you have to weigh conflicting advice from one source against another. But always remember: **Your r&eacute;sum&eacute; is YOUR r&eacute;sum&eacute; and you are free to accept or reject any advice**.
 
 # Creation
 
 There are many r&eacute;sum&eacute; templates out there that you can adapt for your own use. Typically r&eacute;sum&eacute;s are created in LaTeX or Microsoft Word and then exported to PDF format. Personally, I developed my own style using Microsoft Word 2010&copy; over several years, starting from a blank page.
 
-According to PuffyPanda, Google Docs' PDF export has weird spacing for letters and can cause issues with parsing. It may be better to export to *.docx and check before exporting there.
-
 TODO Links to templates
+
+## Parsers
+
+PuffyPanda had this experience: "I've compared identical resumes across MS Word (Exported to PDF), Google Docs (Exported to PDF) and Latex (Exported to PDF) and there was a notable difference in how the auto-resume-parsers worked. The order from best to worst was in that order."
+
+PuffyPanda also claims that Google Docs' PDF export has weird spacing for letters and can cause issues with parsing, so it may be better to export to *.docx and check.
+
+Not all parsers will exhibit this behaviour; some might do better on certain types of r&eacute;sum&eacute;s and worse on others. There are several r&eacute;sum&eacute; checkers that will run your r&eacute;sum&eacute; through some common parsers and inform you of the result. You can also use a PDF viewer's search tool to see if the text is being generated correctly, and when you apply, you can tell if your r&eacute;sum&eacute; is being successfully parsed by the applicant tracking system (ATS).
+
+TODO Parser checker links
 
 # General
 
@@ -26,7 +56,7 @@ These are the basics.
 > <footer class="blockquote-footer">Xierumeng joke</footer>
 {: class="blockquote" cite=""}
 
-Employers will spend between 10 and 60 seconds looking at your r&eacute;sum&eacute;, looking at possibly hundreds of them over several days. Therefore, it is critical to convey your eligibility in this extremely short period by having a well-organized r&eacute;sum&eacute;.
+Employers will spend between 10 and 60 seconds looking at your r&eacute;sum&eacute;, looking at possibly hundreds of them over several days. Therefore, your r&eacute;sum&eacute; should be able to tell your story and convey eligibility in this extremely short period. Flow and organization are very important.
 
 * Length - The length of your r&eacute;sum&eacute; should be at most one page. If you find yourself running out of space, you should remove content or re-arrange formatting and layout.
 
@@ -134,7 +164,7 @@ Small high school/university assignments aren't usually worth putting on your r&
 
 This is mainly because assignment questions tend to be re-used with little change, but I've also seen the [argument](https://uwaterloo.ca/math/code-sharing-policy) that the professor also has a claim to the intellectual property as it is them who wrote the assignment question and marked the submitted code (i.e. your assignment code wouldn't have existed without the assignment).
 
-Douglas Harder's (ECE 150) also has an [article](https://ece.uwaterloo.ca/~ece150/Resumes/) about sharing course code.
+Douglas Harder also has an [article](https://ece.uwaterloo.ca/~ece150/Resumes/) about sharing course code.
 
 ### Sub-sections
 
@@ -160,7 +190,7 @@ This section contains your education. Don't bother including high school.
 
 # Points
 
-Points are the details that the employer will look at after the initial screening. Points should be concise and direct and should cover one item. If your point can be split into two points, you should use two points instead of cramming it into one. Yihong (CE 2023) has a [guide](https://simple-script-8f5.notion.site/Resume-Guide-debb3905247f489b86034ed7481827f0) on how to word your points to convey information.
+Points are the details that the employer will look at after the initial screening. Each point is a small story about a task you accomplished, and should have a reason for being on your r&eacute;sum&eacute;. They should be concise, direct, relevant, and cover one item. If a point can be split into two points, you should use two points instead of cramming it into one. Yihong (UW CE 2023) has a [guide](https://simple-script-8f5.notion.site/Resume-Guide-debb3905247f489b86034ed7481827f0) on how to word points to convey information.
 
 Points should not have brackets/parantheses, nor semi-colons, nor common initialisms such as "e.g." or "etc." as it breaks the flow.
 
@@ -246,6 +276,8 @@ The action verb is better and the skill demonstrated has been improved (not only
 
 This is an example where this point should have been broken into twain: Physics engine for ship movement, resource manager for internal systems.
 
+Possible improvement: *Developed a physics engine to simulate ship movement* and *Implemented a resource system to manage internal ship state*
+
 ## Example 5
 
 *Queried and updated the message status of events with SQLite to find incomplete events on agent start-up*
@@ -259,7 +291,7 @@ Too specific, what is a message status of an event? What does SQLite have to do 
 * [UW Computer Science Club Resources](https://docs.google.com/document/d/1xGLrG-VBXuUpfL5MUuieKtuJyAhJoC7X9pWzg7PRfjo/edit).
 * [EngSoc R&eacute;sum&eacute; Bank](https://drive.google.com/drive/folders/1N8uq1BJFV8ik5fyas3_ip7CGS6nOMVIq).
 * Go to critique sessions hosted by the Engineering Society and the ECE Society.
-* Bug some upper years.
+* Bug some upper years and alumni.
 
 # Patrons
 
